@@ -1,0 +1,1001 @@
+hotel_id,hotel_name,hotel_city,property_type,star_rating,hotel_status,cancellation_policy,avg_nightly_rate
+HTL200000,Urban Palace 0,Chennai,Serviced Apartment,3,Active,Free Cancellation,9073
+HTL200001,Palm Stay 1,Kochi,Resort,2,Active,Non Refundable,5041
+HTL200002,Royal Suites 2,Hyderabad,Resort,3,Active,Partial Refund,7616
+HTL200003,Pearl Inn 3,Bengaluru,Hotel,3,Active,Partial Refund,11833
+HTL200004,Blue Bay Stay 4,Manali,Hotel,5,Temporarily Blocked,Free Cancellation,6085
+HTL200005,Heritage Palace 5,Varanasi,Hotel,3,Active,Free Cancellation,1794
+HTL200006,Silver Oak Inn 6,Jaipur,Serviced Apartment,3,Active,Non Refundable,15593
+HTL200007,Metro Suites 7,Pune,Hotel,4,Active,Free Cancellation,3812
+HTL200008,Green Leaf Stay 8,Shimla,Resort,3,Active,Free Cancellation,13488
+HTL200009,Silver Oak Palace 9,Goa,Homestay,3,Active,Partial Refund,6061
+HTL200010,Pearl Hotel 10,Bengaluru,Hotel,2,Active,Free Cancellation,5966
+HTL200011,Heritage Palace 11,Ahmedabad,Resort,3,Under Review,Partial Refund,4558
+HTL200012,Urban Stay 12,Varanasi,Resort,2,Active,Non Refundable,16046
+HTL200013,Crown Inn 13,Ahmedabad,Resort,2,Active,Partial Refund,2114
+HTL200014,Lakeview Hotel 14,Goa,Hotel,4,Active,Flexible 24H,3195
+HTL200015,Green Leaf Inn 15,Goa,Hotel,2,Under Review,Non Refundable,1294
+HTL200016,Pearl Stay 16,Pune,Hotel,4,Under Review,Free Cancellation,9884
+HTL200017,Silver Oak Resort 17,Goa,Homestay,4,Active,Partial Refund,16300
+HTL200018,Grand Palace 18,Hyderabad,Resort,3,Active,Partial Refund,1349
+HTL200019,Palm Hotel 19,Hyderabad,Hotel,3,Temporarily Blocked,Partial Refund,4003
+HTL200020,Regency Suites 20,Ahmedabad,Serviced Apartment,2,Active,Free Cancellation,15666
+HTL200021,Crown Stay 21,Ahmedabad,Hotel,4,Temporarily Blocked,Flexible 24H,8476
+HTL200022,Silver Oak Hotel 22,Bengaluru,Homestay,4,Under Review,Partial Refund,1751
+HTL200023,Sunrise Palace 23,Varanasi,Serviced Apartment,4,Active,Partial Refund,16680
+HTL200024,Silver Oak Inn 24,Shimla,Villa,2,Active,Partial Refund,9686
+HTL200025,Metro Suites 25,Kochi,Homestay,5,Active,Partial Refund,10945
+HTL200026,Urban Inn 26,Mumbai,Hotel,2,Active,Non Refundable,9560
+HTL200027,Palm Suites 27,Kochi,Hotel,3,Under Review,Partial Refund,14197
+HTL200028,Silver Oak Palace 28,Delhi,Homestay,3,Active,Free Cancellation,8510
+HTL200029,Heritage Palace 29,Chennai,Hotel,2,Under Review,Free Cancellation,7017
+HTL200030,Silver Oak Resort 30,Shimla,Hotel,3,Active,Non Refundable,11768
+HTL200031,Crown Inn 31,Chennai,Homestay,4,Active,Partial Refund,9270
+HTL200032,Urban Inn 32,Agra,Hotel,4,Under Review,Flexible 24H,2520
+HTL200033,Metro Hotel 33,Agra,Villa,4,Temporarily Blocked,Free Cancellation,7353
+HTL200034,Crown Resort 34,Udaipur,Homestay,3,Active,Free Cancellation,7789
+HTL200035,Lakeview Suites 35,Varanasi,Homestay,4,Temporarily Blocked,Free Cancellation,16789
+HTL200036,Urban Suites 36,Pune,Homestay,2,Under Review,Partial Refund,4807
+HTL200037,Vista Hotel 37,Kolkata,Villa,3,Active,Partial Refund,11517
+HTL200038,Vista Inn 38,Agra,Homestay,2,Under Review,Free Cancellation,11632
+HTL200039,Grand Inn 39,Kochi,Resort,3,Active,Partial Refund,1600
+HTL200040,Crown Stay 40,Kolkata,Hotel,3,Under Review,Partial Refund,17946
+HTL200041,Urban Stay 41,Bengaluru,Villa,3,Active,Free Cancellation,5051
+HTL200042,Pearl Hotel 42,Ahmedabad,Homestay,3,Temporarily Blocked,Partial Refund,11698
+HTL200043,Grand Resort 43,Kochi,Hotel,5,Active,Non Refundable,1284
+HTL200044,Vista Hotel 44,Goa,Hotel,3,Temporarily Blocked,Free Cancellation,3024
+HTL200045,Urban Palace 45,Goa,Resort,5,Active,Free Cancellation,13277
+HTL200046,Green Leaf Stay 46,Varanasi,Hotel,4,Active,Free Cancellation,17130
+HTL200047,Sunrise Palace 47,Kochi,Villa,3,Active,Non Refundable,13749
+HTL200048,Silver Oak Suites 48,Pune,Serviced Apartment,4,Under Review,Non Refundable,11313
+HTL200049,Heritage Resort 49,Varanasi,Hotel,2,Under Review,Free Cancellation,16332
+HTL200050,Metro Resort 50,Jaipur,Resort,4,Temporarily Blocked,Free Cancellation,10022
+HTL200051,Regency Suites 51,Manali,Hotel,3,Active,Flexible 24H,8618
+HTL200052,Urban Suites 52,Shimla,Resort,5,Active,Flexible 24H,3571
+HTL200053,Vista Resort 53,Mumbai,Hotel,4,Active,Partial Refund,8268
+HTL200054,Vista Resort 54,Varanasi,Resort,4,Active,Flexible 24H,13059
+HTL200055,Regency Inn 55,Udaipur,Hotel,4,Active,Partial Refund,8664
+HTL200056,Crown Resort 56,Hyderabad,Hotel,3,Under Review,Non Refundable,14748
+HTL200057,Green Leaf Palace 57,Goa,Hotel,3,Active,Partial Refund,8321
+HTL200058,Regency Stay 58,Udaipur,Hotel,3,Active,Partial Refund,11040
+HTL200059,Blue Bay Hotel 59,Chennai,Resort,3,Temporarily Blocked,Free Cancellation,5512
+HTL200060,Lakeview Suites 60,Kochi,Hotel,3,Under Review,Non Refundable,9200
+HTL200061,Metro Inn 61,Jaipur,Hotel,5,Active,Flexible 24H,10661
+HTL200062,Silver Oak Resort 62,Manali,Villa,3,Active,Partial Refund,1518
+HTL200063,Silver Oak Resort 63,Kochi,Homestay,5,Under Review,Free Cancellation,16529
+HTL200064,Riverfront Resort 64,Hyderabad,Villa,4,Under Review,Free Cancellation,16991
+HTL200065,Vista Palace 65,Pune,Villa,3,Active,Free Cancellation,15572
+HTL200066,Heritage Resort 66,Udaipur,Hotel,5,Active,Free Cancellation,17135
+HTL200067,Pearl Stay 67,Bengaluru,Hotel,3,Active,Partial Refund,16901
+HTL200068,Blue Bay Hotel 68,Varanasi,Resort,5,Active,Flexible 24H,12450
+HTL200069,Pearl Suites 69,Varanasi,Villa,3,Active,Free Cancellation,2802
+HTL200070,Silver Oak Resort 70,Hyderabad,Serviced Apartment,3,Temporarily Blocked,Free Cancellation,10247
+HTL200071,Metro Palace 71,Pune,Hotel,3,Under Review,Partial Refund,16434
+HTL200072,Regency Stay 72,Kolkata,Hotel,3,Active,Free Cancellation,8732
+HTL200073,Green Leaf Resort 73,Pune,Hotel,3,Under Review,Flexible 24H,8566
+HTL200074,Silver Oak Resort 74,Pune,Homestay,3,Active,Free Cancellation,3848
+HTL200075,Silver Oak Resort 75,Ahmedabad,Resort,3,Active,Free Cancellation,8103
+HTL200076,Lakeview Stay 76,Shimla,Hotel,5,Active,Free Cancellation,14988
+HTL200077,Blue Bay Stay 77,Hyderabad,Hotel,3,Under Review,Free Cancellation,3681
+HTL200078,Sunrise Palace 78,Kochi,Resort,3,Active,Partial Refund,3020
+HTL200079,Grand Palace 79,Manali,Homestay,4,Active,Free Cancellation,11471
+HTL200080,Riverfront Palace 80,Jaipur,Hotel,4,Under Review,Partial Refund,4884
+HTL200081,Blue Bay Hotel 81,Hyderabad,Villa,5,Active,Partial Refund,4851
+HTL200082,Metro Palace 82,Delhi,Resort,3,Under Review,Free Cancellation,11631
+HTL200083,Urban Hotel 83,Mumbai,Homestay,2,Active,Free Cancellation,11331
+HTL200084,Regency Suites 84,Agra,Homestay,3,Active,Partial Refund,6030
+HTL200085,Metro Suites 85,Varanasi,Hotel,3,Active,Non Refundable,8534
+HTL200086,Palm Palace 86,Jaipur,Hotel,5,Active,Flexible 24H,15819
+HTL200087,Heritage Palace 87,Bengaluru,Resort,3,Active,Free Cancellation,10504
+HTL200088,Vista Hotel 88,Jaipur,Hotel,5,Active,Free Cancellation,16079
+HTL200089,Urban Hotel 89,Chennai,Homestay,3,Active,Free Cancellation,15785
+HTL200090,Regency Stay 90,Kochi,Resort,5,Temporarily Blocked,Partial Refund,1216
+HTL200091,Silver Oak Stay 91,Bengaluru,Homestay,2,Active,Partial Refund,9508
+HTL200092,Vista Stay 92,Varanasi,Hotel,5,Under Review,Non Refundable,7676
+HTL200093,Royal Resort 93,Kolkata,Hotel,5,Active,Non Refundable,7142
+HTL200094,Urban Inn 94,Hyderabad,Resort,5,Active,Free Cancellation,3893
+HTL200095,Green Leaf Palace 95,Pune,Hotel,2,Under Review,Partial Refund,16762
+HTL200096,Crown Suites 96,Shimla,Resort,2,Under Review,Flexible 24H,7459
+HTL200097,Royal Stay 97,Kochi,Homestay,4,Under Review,Free Cancellation,16779
+HTL200098,Silver Oak Resort 98,Hyderabad,Hotel,2,Under Review,Partial Refund,10668
+HTL200099,Vista Inn 99,Varanasi,Homestay,2,Active,Flexible 24H,6142
+HTL200100,Grand Inn 100,Shimla,Hotel,3,Temporarily Blocked,Non Refundable,15851
+HTL200101,Palm Suites 101,Shimla,Hotel,3,Active,Non Refundable,4988
+HTL200102,Green Leaf Hotel 102,Chennai,Serviced Apartment,3,Under Review,Free Cancellation,1571
+HTL200103,Crown Hotel 103,Kochi,Serviced Apartment,2,Active,Partial Refund,8320
+HTL200104,Riverfront Palace 104,Udaipur,Hotel,2,Active,Free Cancellation,6902
+HTL200105,Heritage Resort 105,Chennai,Serviced Apartment,3,Under Review,Partial Refund,9547
+HTL200106,Grand Hotel 106,Delhi,Hotel,3,Temporarily Blocked,Free Cancellation,3861
+HTL200107,Lakeview Resort 107,Pune,Hotel,2,Active,Non Refundable,7851
+HTL200108,Vista Inn 108,Pune,Hotel,3,Active,Non Refundable,6078
+HTL200109,Lakeview Palace 109,Manali,Villa,5,Active,Partial Refund,14291
+HTL200110,Heritage Resort 110,Goa,Hotel,5,Under Review,Free Cancellation,5515
+HTL200111,Metro Resort 111,Ahmedabad,Resort,5,Active,Free Cancellation,11165
+HTL200112,Riverfront Suites 112,Udaipur,Resort,5,Active,Non Refundable,9508
+HTL200113,Regency Resort 113,Goa,Homestay,3,Temporarily Blocked,Partial Refund,7674
+HTL200114,Regency Inn 114,Kolkata,Hotel,4,Active,Non Refundable,2574
+HTL200115,Riverfront Palace 115,Manali,Hotel,3,Active,Free Cancellation,12595
+HTL200116,Riverfront Resort 116,Mumbai,Hotel,4,Active,Partial Refund,8593
+HTL200117,Urban Resort 117,Agra,Resort,3,Active,Non Refundable,5603
+HTL200118,Royal Palace 118,Mumbai,Resort,4,Active,Partial Refund,4746
+HTL200119,Lakeview Inn 119,Hyderabad,Resort,3,Under Review,Partial Refund,5177
+HTL200120,Pearl Palace 120,Mumbai,Homestay,2,Temporarily Blocked,Non Refundable,10588
+HTL200121,Lakeview Palace 121,Pune,Hotel,4,Active,Free Cancellation,10188
+HTL200122,Sunrise Palace 122,Chennai,Villa,2,Active,Free Cancellation,5092
+HTL200123,Green Leaf Stay 123,Udaipur,Resort,3,Temporarily Blocked,Partial Refund,15208
+HTL200124,Sunrise Stay 124,Manali,Hotel,2,Under Review,Free Cancellation,4449
+HTL200125,Sunrise Resort 125,Hyderabad,Hotel,3,Active,Non Refundable,1311
+HTL200126,Vista Hotel 126,Hyderabad,Homestay,2,Active,Non Refundable,8600
+HTL200127,Green Leaf Hotel 127,Ahmedabad,Villa,5,Under Review,Flexible 24H,3579
+HTL200128,Sunrise Suites 128,Udaipur,Hotel,3,Active,Partial Refund,14380
+HTL200129,Vista Hotel 129,Pune,Resort,3,Under Review,Free Cancellation,9552
+HTL200130,Grand Palace 130,Agra,Hotel,3,Active,Free Cancellation,9669
+HTL200131,Blue Bay Hotel 131,Kolkata,Hotel,4,Active,Non Refundable,10948
+HTL200132,Vista Hotel 132,Shimla,Resort,4,Under Review,Free Cancellation,11307
+HTL200133,Grand Palace 133,Kolkata,Resort,4,Temporarily Blocked,Non Refundable,14142
+HTL200134,Blue Bay Suites 134,Varanasi,Homestay,4,Active,Non Refundable,17886
+HTL200135,Palm Palace 135,Hyderabad,Hotel,5,Temporarily Blocked,Free Cancellation,5733
+HTL200136,Urban Stay 136,Kolkata,Hotel,4,Active,Free Cancellation,5481
+HTL200137,Lakeview Stay 137,Shimla,Hotel,4,Temporarily Blocked,Partial Refund,5968
+HTL200138,Sunrise Resort 138,Pune,Hotel,3,Active,Non Refundable,13398
+HTL200139,Pearl Suites 139,Delhi,Hotel,4,Under Review,Free Cancellation,8369
+HTL200140,Riverfront Inn 140,Delhi,Hotel,3,Active,Flexible 24H,8561
+HTL200141,Palm Palace 141,Goa,Hotel,4,Temporarily Blocked,Partial Refund,5030
+HTL200142,Regency Stay 142,Jaipur,Hotel,4,Active,Flexible 24H,4082
+HTL200143,Pearl Stay 143,Ahmedabad,Resort,4,Temporarily Blocked,Free Cancellation,2198
+HTL200144,Silver Oak Stay 144,Varanasi,Hotel,4,Temporarily Blocked,Free Cancellation,17142
+HTL200145,Silver Oak Stay 145,Bengaluru,Hotel,2,Under Review,Non Refundable,17868
+HTL200146,Lakeview Resort 146,Mumbai,Resort,2,Active,Non Refundable,17446
+HTL200147,Crown Hotel 147,Ahmedabad,Hotel,3,Active,Partial Refund,4265
+HTL200148,Sunrise Palace 148,Kolkata,Resort,5,Active,Non Refundable,11667
+HTL200149,Metro Stay 149,Delhi,Hotel,4,Active,Non Refundable,13276
+HTL200150,Urban Palace 150,Varanasi,Hotel,4,Active,Free Cancellation,3743
+HTL200151,Heritage Resort 151,Chennai,Hotel,4,Active,Partial Refund,11233
+HTL200152,Lakeview Suites 152,Ahmedabad,Hotel,4,Active,Non Refundable,2601
+HTL200153,Metro Inn 153,Udaipur,Resort,5,Active,Partial Refund,5722
+HTL200154,Sunrise Resort 154,Manali,Villa,4,Active,Free Cancellation,3751
+HTL200155,Heritage Stay 155,Shimla,Hotel,4,Active,Non Refundable,6016
+HTL200156,Silver Oak Hotel 156,Jaipur,Hotel,4,Under Review,Free Cancellation,8899
+HTL200157,Heritage Stay 157,Goa,Resort,3,Active,Free Cancellation,3829
+HTL200158,Silver Oak Hotel 158,Ahmedabad,Hotel,4,Under Review,Flexible 24H,8887
+HTL200159,Sunrise Hotel 159,Bengaluru,Homestay,3,Active,Partial Refund,11356
+HTL200160,Sunrise Stay 160,Delhi,Hotel,2,Active,Non Refundable,8034
+HTL200161,Sunrise Hotel 161,Goa,Serviced Apartment,4,Active,Non Refundable,6049
+HTL200162,Metro Suites 162,Kochi,Hotel,3,Temporarily Blocked,Free Cancellation,16982
+HTL200163,Sunrise Resort 163,Varanasi,Hotel,5,Temporarily Blocked,Free Cancellation,17027
+HTL200164,Riverfront Stay 164,Jaipur,Villa,3,Active,Free Cancellation,10631
+HTL200165,Royal Resort 165,Udaipur,Resort,3,Active,Free Cancellation,5350
+HTL200166,Grand Hotel 166,Mumbai,Hotel,3,Active,Partial Refund,12489
+HTL200167,Heritage Suites 167,ahmedabad,Resort,2,Active,Partial Refund,10696
+HTL200168,Silver Oak Stay 168,Varanasi,Resort,3,Under Review,Partial Refund,7670
+HTL200169,Regency Hotel 169,Manali,Hotel,3,Temporarily Blocked,Free Cancellation,14457
+HTL200170,Regency Hotel 170,Delhi,Resort,2,Temporarily Blocked,Partial Refund,4912
+HTL200171,Riverfront Hotel 171,Agra,Hotel,3,Active,Partial Refund,13921
+HTL200172,Sunrise Inn 172,Manali,Homestay,3,Active,Partial Refund,13695
+HTL200173,Grand Suites 173,Varanasi,Serviced Apartment,4,Under Review,Free Cancellation,13620
+HTL200174,Metro Inn 174,Udaipur,Hotel,2,Temporarily Blocked,Partial Refund,6515
+HTL200175,Palm Suites 175,  Bengaluru  ,Hotel,4,Active,Free Cancellation,6581
+HTL200176,Metro Suites 176,Kolkata,Hotel,4,Active,Free Cancellation,10697
+HTL200177,Riverfront Stay 177,Jaipur,Hotel,3,Under Review,Non Refundable,14694
+HTL200178,Regency Stay 178,Bengaluru,Villa,5,Active,Free Cancellation,16952
+HTL200179,Lakeview Stay 179,Mumbai,Hotel,4,Active,Partial Refund,5822
+HTL200180,Lakeview Resort 180,Udaipur,Hotel,4,Active,Free Cancellation,5332
+HTL200181,Crown Stay 181,Pune,Homestay,3,Active,Free Cancellation,10030
+HTL200182,Royal Palace 182,Mumbai,Villa,4,Under Review,Free Cancellation,8195
+HTL200183,Riverfront Stay 183,Kochi,Hotel,4,Active,Flexible 24H,3870
+HTL200184,Blue Bay Hotel 184,Shimla,Resort,3,Under Review,Partial Refund,10564
+HTL200185,Lakeview Palace 185,Hyderabad,Resort,3,Under Review,Flexible 24H,11241
+HTL200186,Green Leaf Resort 186,Delhi,Serviced Apartment,3,Active,Partial Refund,10254
+HTL200187,Royal Hotel 187,Kolkata,Resort,4,Temporarily Blocked,Partial Refund,12837
+HTL200188,Palm Resort 188,Ahmedabad,Resort,3,Temporarily Blocked,Partial Refund,11957
+HTL200189,Urban Hotel 189,Agra,Hotel,4,Active,Free Cancellation,9690
+HTL200190,Lakeview Suites 190,Jaipur,Hotel,2,Active,Free Cancellation,13529
+HTL200191,Blue Bay Palace 191,Chennai,Resort,4,Temporarily Blocked,Free Cancellation,1970
+HTL200192,Crown Palace 192,Agra,Serviced Apartment,3,Under Review,Partial Refund,5054
+HTL200193,Vista Suites 193,Udaipur,Homestay,3,Under Review,Free Cancellation,4318
+HTL200194,Heritage Suites 194,Manali,Serviced Apartment,3,Active,Free Cancellation,11101
+HTL200195,Blue Bay Inn 195,Kochi,Hotel,2,Active,Free Cancellation,14722
+HTL200196,Crown Stay 196,Pune,Homestay,2,Under Review,Partial Refund,1238
+HTL200197,Palm Stay 197,Chennai,Homestay,3,Under Review,Partial Refund,17202
+HTL200198,Sunrise Resort 198,Shimla,Resort,3,Active,Non Refundable,6057
+HTL200199,Metro Resort 199,Shimla,Hotel,5,Temporarily Blocked,Free Cancellation,17512
+HTL200200,Palm Stay 200,Agra,Hotel,4,Active,Free Cancellation,2636
+HTL200201,Lakeview Suites 201,Kochi,Homestay,3,Active,Free Cancellation,8893
+HTL200202,Vista Inn 202,Delhi,Hotel,2,Temporarily Blocked,Flexible 24H,14418
+HTL200203,Palm Palace 203,Delhi,Villa,3,Temporarily Blocked,Free Cancellation,5451
+HTL200204,Heritage Palace 204,Jaipur,Hotel,4,Temporarily Blocked,Partial Refund,10505
+HTL200205,Heritage Suites 205,Agra,Homestay,3,Active,Partial Refund,11790
+HTL200206,Heritage Palace 206,Pune,Resort,2,Active,Free Cancellation,8862
+HTL200207,Pearl Suites 207,Delhi,Homestay,3,Temporarily Blocked,Free Cancellation,4323
+HTL200208,Silver Oak Hotel 208,Chennai,Hotel,4,Under Review,Free Cancellation,5358
+HTL200209,Heritage Stay 209,Pune,Serviced Apartment,3,Active,Non Refundable,9900
+HTL200210,Palm Palace 210,Shimla,Resort,4,Active,Partial Refund,11731
+HTL200211,Vista Hotel 211,Kochi,Hotel,3,Active,Partial Refund,11079
+HTL200212,Riverfront Inn 212,Manali,Resort,2,Under Review,Partial Refund,6743
+HTL200213,Urban Hotel 213,Chennai,Hotel,3,Active,Partial Refund,15180
+HTL200214,Palm Palace 214,Mumbai,Hotel,3,Active,Partial Refund,16356
+HTL200215,Crown Hotel 215,Kochi,Hotel,2,Temporarily Blocked,Free Cancellation,10780
+HTL200216,Regency Resort 216,Bengaluru,Homestay,2,Temporarily Blocked,Free Cancellation,5111
+HTL200217,Grand Palace 217,Pune,Hotel,3,Temporarily Blocked,Free Cancellation,14782
+HTL200218,Urban Palace 218,Shimla,Resort,2,Active,Non Refundable,12320
+HTL200219,Riverfront Palace 219,Goa,Hotel,3,Under Review,Free Cancellation,6435
+HTL200220,Crown Inn 220,Bengaluru,Hotel,5,Active,Partial Refund,5999
+HTL200221,Silver Oak Suites 221,Kochi,Serviced Apartment,3,Under Review,Free Cancellation,15425
+HTL200222,Vista Suites 222,Shimla,Resort,4,Active,Flexible 24H,17909
+HTL200223,Regency Resort 223,Shimla,Serviced Apartment,3,Temporarily Blocked,Free Cancellation,4966
+HTL200224,Pearl Resort 224,Agra,Hotel,3,Under Review,Free Cancellation,5311
+HTL200225,Pearl Stay 225,Shimla,Hotel,2,Active,Flexible 24H,8215
+HTL200226,Heritage Stay 226,Bengaluru,Homestay,3,Temporarily Blocked,Partial Refund,8056
+HTL200227,Regency Resort 227,Pune,Resort,3,Active,Flexible 24H,17690
+HTL200228,Royal Inn 228,Kolkata,Hotel,2,Active,Free Cancellation,3626
+HTL200229,Lakeview Palace 229,Varanasi,Hotel,4,Active,Free Cancellation,15697
+HTL200230,Riverfront Inn 230,Delhi,Homestay,3,Temporarily Blocked,Partial Refund,12536
+HTL200231,Lakeview Suites 231,Varanasi,Hotel,3,Active,Flexible 24H,6516
+HTL200232,Riverfront Hotel 232,mumbai,Resort,2,Temporarily Blocked,Free Cancellation,6562
+HTL200233,Grand Hotel 233,Kolkata,Hotel,3,Temporarily Blocked,Flexible 24H,5893
+HTL200234,Blue Bay Palace 234,Kolkata,Hotel,4,Active,Partial Refund,10190
+HTL200235,Heritage Palace 235,Goa,Serviced Apartment,3,Active,Non Refundable,16333
+HTL200236,Metro Suites 236,Udaipur,Hotel,3,Active,Partial Refund,15378
+HTL200237,Palm Inn 237,Pune,Hotel,3,Active,Free Cancellation,11829
+HTL200238,Crown Resort 238,Chennai,Homestay,2,Active,Flexible 24H,15951
+HTL200239,Urban Resort 239,Delhi,Hotel,4,Active,Flexible 24H,1625
+HTL200240,Sunrise Inn 240,Agra,Hotel,4,Under Review,Partial Refund,4244
+HTL200241,Silver Oak Palace 241,Kolkata,Resort,2,Active,Free Cancellation,12680
+HTL200242,Metro Palace 242,Mumbai,Hotel,2,Active,Free Cancellation,12306
+HTL200243,Green Leaf Hotel 243,Udaipur,Hotel,4,Active,Partial Refund,7429
+HTL200244,Urban Palace 244,Goa,Hotel,3,Temporarily Blocked,Free Cancellation,2439
+HTL200245,Lakeview Inn 245,Shimla,Resort,2,Active,Partial Refund,7766
+HTL200246,Blue Bay Hotel 246,Ahmedabad,Resort,4,Active,Free Cancellation,5413
+HTL200247,Urban Suites 247,Hyderabad,Resort,3,Active,Non Refundable,4206
+HTL200248,Green Leaf Stay 248,Delhi,Hotel,3,Active,Free Cancellation,8225
+HTL200249,Riverfront Inn 249,Hyderabad,Resort,3,Under Review,Partial Refund,7758
+HTL200250,Grand Palace 250,Bengaluru,Serviced Apartment,4,Temporarily Blocked,Partial Refund,2384
+HTL200251,Pearl Inn 251,Kolkata,Hotel,3,Active,Partial Refund,15630
+HTL200252,Vista Palace 252,Jaipur,Resort,5,Active,Partial Refund,9302
+HTL200253,Heritage Hotel 253,Delhi,Resort,4,Active,Free Cancellation,15069
+HTL200254,Urban Suites 254,Varanasi,Homestay,2,Active,Non Refundable,8316
+HTL200255,Silver Oak Inn 255,Chennai,Villa,3,Active,Non Refundable,14137
+HTL200256,Lakeview Inn 256,Udaipur,Hotel,3,Active,Non Refundable,5583
+HTL200257,Pearl Resort 257,Mumbai,Hotel,3,Under Review,Flexible 24H,5707
+HTL200258,Metro Suites 258,Delhi,Hotel,4,Active,Non Refundable,15935
+HTL200259,Silver Oak Suites 259,Chennai,Hotel,3,Active,Non Refundable,17719
+HTL200260,Heritage Inn 260,Varanasi,Hotel,2,Active,Free Cancellation,3225
+HTL200261,Grand Stay 261,Pune,Homestay,4,Temporarily Blocked,Partial Refund,6054
+HTL200262,Sunrise Hotel 262,Hyderabad,Hotel,2,Under Review,Partial Refund,6567
+HTL200263,Crown Palace 263,PUNE,Hotel,4,Temporarily Blocked,Free Cancellation,4090
+HTL200264,Blue Bay Palace 264,Udaipur,Resort,4,Active,Partial Refund,4973
+HTL200265,Heritage Hotel 265,Manali,Hotel,3,Temporarily Blocked,Free Cancellation,17019
+HTL200266,Riverfront Suites 266,Goa,Villa,3,Active,Non Refundable,2728
+HTL200267,Urban Inn 267,Kolkata,Homestay,4,Under Review,Partial Refund,13020
+HTL200268,Heritage Inn 268,Delhi,Hotel,4,Temporarily Blocked,Partial Refund,6249
+HTL200269,Silver Oak Resort 269,Manali,Hotel,3,Active,Flexible 24H,2048
+HTL200270,Vista Resort 270,Jaipur,Hotel,3,Active,Partial Refund,11319
+HTL200271,Heritage Suites 271,Hyderabad,Resort,3,Temporarily Blocked,Free Cancellation,11557
+HTL200272,Palm Palace 272,Varanasi,Hotel,2,Under Review,Free Cancellation,17367
+HTL200273,Urban Suites 273,Hyderabad,Resort,2,Active,Flexible 24H,13678
+HTL200274,Metro Palace 274,Delhi,Homestay,2,Temporarily Blocked,Partial Refund,3321
+HTL200275,Grand Palace 275,Varanasi,Hotel,3,Active,Partial Refund,14110
+HTL200276,Metro Suites 276,Bengaluru,Homestay,3,Temporarily Blocked,Free Cancellation,5881
+HTL200277,Blue Bay Palace 277,Pune,Hotel,5,Active,Partial Refund,15955
+HTL200278,Silver Oak Resort 278,Hyderabad,Villa,4,Temporarily Blocked,Free Cancellation,1672
+HTL200279,Royal Suites 279,Chennai,Hotel,2,Under Review,Non Refundable,1313
+HTL200280,Regency Hotel 280,Mumbai,Resort,3,Active,Non Refundable,14890
+HTL200281,Lakeview Suites 281,Kolkata,Hotel,3,Active,Non Refundable,7673
+HTL200282,Regency Palace 282,Hyderabad,Homestay,2,Active,Non Refundable,9730
+HTL200283,Urban Stay 283,Ahmedabad,Hotel,5,Active,Partial Refund,2396
+HTL200284,Grand Resort 284,Shimla,Hotel,3,Active,Non Refundable,17662
+HTL200285,Pearl Suites 285,Chennai,Resort,5,Temporarily Blocked,Partial Refund,7217
+HTL200286,Silver Oak Stay 286,Udaipur,Hotel,3,Under Review,Partial Refund,3852
+HTL200287,Vista Resort 287,Udaipur,Resort,4,Active,Free Cancellation,12032
+HTL200288,Sunrise Hotel 288,Kolkata,Villa,2,Under Review,Free Cancellation,6585
+HTL200289,Urban Inn 289,Bengaluru,Hotel,3,Active,Partial Refund,15908
+HTL200290,Urban Inn 290,Agra,Hotel,3,Temporarily Blocked,Partial Refund,15771
+HTL200291,Palm Suites 291,Agra,Hotel,4,Temporarily Blocked,Free Cancellation,12202
+HTL200292,Royal Inn 292,Jaipur,Resort,4,Active,Non Refundable,4585
+HTL200293,Silver Oak Stay 293,Kolkata,Hotel,4,Temporarily Blocked,Free Cancellation,3165
+HTL200294,Metro Palace 294,Goa,Hotel,4,Active,Free Cancellation,3627
+HTL200295,Vista Hotel 295,Bengaluru,Hotel,4,Under Review,Non Refundable,4041
+HTL200296,Silver Oak Inn 296,Hyderabad,Hotel,3,Active,Partial Refund,7763
+HTL200297,Heritage Resort 297,Agra,Serviced Apartment,3,Temporarily Blocked,Non Refundable,15587
+HTL200298,Urban Resort 298,Varanasi,Hotel,4,Active,Partial Refund,7040
+HTL200299,Urban Stay 299,Kolkata,Resort,4,Active,Flexible 24H,16354
+HTL200300,Blue Bay Suites 300,Varanasi,Homestay,4,Temporarily Blocked,Partial Refund,15293
+HTL200301,Pearl Hotel 301,Manali,Homestay,3,Active,Free Cancellation,5552
+HTL200302,Urban Resort 302,Shimla,Hotel,2,Active,Free Cancellation,1384
+HTL200303,Vista Palace 303,Agra,Resort,5,Temporarily Blocked,Free Cancellation,11584
+HTL200304,Green Leaf Inn 304,Kochi,Villa,3,Active,Flexible 24H,15519
+HTL200305,Green Leaf Inn 305,Shimla,Hotel,2,Active,Free Cancellation,9637
+HTL200306,Vista Inn 306,Pune,Hotel,4,Active,Partial Refund,11626
+HTL200307,Riverfront Stay 307,Udaipur,Hotel,5,Active,Free Cancellation,8704
+HTL200308,Royal Resort 308,Kochi,Hotel,2,Under Review,Non Refundable,1800
+HTL200309,Sunrise Inn 309,Chennai,Hotel,4,Temporarily Blocked,Free Cancellation,9004
+HTL200310,Grand Palace 310,ShImLa,Homestay,5,Active,Flexible 24H,14449
+HTL200311,Heritage Palace 311,Kolkata,Hotel,5,Active,Free Cancellation,6737
+HTL200312,Grand Suites 312,Pune,Hotel,5,Active,Free Cancellation,15885
+HTL200313,Regency Resort 313,Bengaluru,Resort,3,Temporarily Blocked,Free Cancellation,9924
+HTL200314,Palm Suites 314,Goa,Hotel,3,Active,Non Refundable,6284
+HTL200315,Crown Suites 315,Manali,Homestay,2,Active,Non Refundable,3242
+HTL200316,Palm Palace 316,Chennai,Hotel,2,Active,Free Cancellation,17941
+HTL200317,Lakeview Inn 317,Mumbai,Serviced Apartment,3,Under Review,Free Cancellation,17961
+HTL200318,Pearl Hotel 318,Agra,Hotel,3,Temporarily Blocked,Non Refundable,14536
+HTL200319,Palm Stay 319,Ahmedabad,Resort,3,Active,Free Cancellation,14614
+HTL200320,Urban Resort 320,Goa,Homestay,3,Active,Free Cancellation,5997
+HTL200321,Urban Hotel 321,Shimla,Hotel,2,Active,Free Cancellation,4507
+HTL200322,Riverfront Stay 322,Hyderabad,Hotel,4,Temporarily Blocked,Free Cancellation,14921
+HTL200323,Crown Inn 323,Kochi,Resort,3,Active,Free Cancellation,3796
+HTL200324,Regency Stay 324,Pune,Hotel,3,Temporarily Blocked,Free Cancellation,12995
+HTL200325,Sunrise Resort 325,Kolkata,Villa,3,Under Review,Free Cancellation,16184
+HTL200326,Sunrise Resort 326,Agra,Serviced Apartment,2,Active,Non Refundable,13334
+HTL200327,Lakeview Stay 327,Varanasi,Hotel,5,Under Review,Free Cancellation,11982
+HTL200328,Lakeview Suites 328,Kochi,Hotel,3,Active,Non Refundable,10434
+HTL200329,Grand Inn 329,Kochi,Hotel,3,Under Review,Free Cancellation,15818
+HTL200330,Grand Suites 330,Kolkata,Hotel,2,Temporarily Blocked,Partial Refund,11227
+HTL200331,Royal Hotel 331,Delhi,Homestay,3,Active,Free Cancellation,15186
+HTL200332,Crown Hotel 332,Udaipur,Homestay,2,Active,Non Refundable,13600
+HTL200333,Heritage Suites 333,Hyderabad,Hotel,3,Active,Free Cancellation,4726
+HTL200334,Royal Stay 334,Manali,Hotel,3,Temporarily Blocked,Flexible 24H,12793
+HTL200335,Vista Suites 335,Pune,Hotel,4,Active,Free Cancellation,2822
+HTL200336,Pearl Suites 336,Kolkata,Hotel,4,Active,Free Cancellation,6718
+HTL200337,Vista Palace 337,Varanasi,Homestay,2,Active,Flexible 24H,3857
+HTL200338,Pearl Resort 338,Mumbai,Hotel,2,Temporarily Blocked,Partial Refund,9899
+HTL200339,Urban Stay 339,Chennai,Homestay,3,Active,Free Cancellation,15155
+HTL200340,Crown Inn 340,Manali,Resort,3,Under Review,Flexible 24H,3856
+HTL200341,Royal Suites 341,Ahmedabad,Homestay,2,Active,Free Cancellation,17873
+HTL200342,Green Leaf Stay 342,Ahmedabad,Hotel,4,Under Review,Free Cancellation,7058
+HTL200343,Royal Hotel 343,Hyderabad,Resort,2,Temporarily Blocked,Flexible 24H,11601
+HTL200344,Urban Hotel 344,Bengaluru,Resort,4,Under Review,Free Cancellation,9958
+HTL200345,Metro Resort 345,Mumbai,Homestay,2,Active,Non Refundable,2673
+HTL200346,Pearl Inn 346,Chennai,Hotel,5,Active,Free Cancellation,14481
+HTL200347,Riverfront Inn 347,Agra,Hotel,4,Active,Non Refundable,17164
+HTL200348,Crown Suites 348,Jaipur,Resort,4,Active,Partial Refund,13257
+HTL200349,Metro Stay 349,Udaipur,Hotel,2,Temporarily Blocked,Flexible 24H,8873
+HTL200350,Metro Palace 350,Manali,Hotel,4,Active,Partial Refund,15481
+HTL200351,Green Leaf Hotel 351,Agra,Serviced Apartment,4,Under Review,Free Cancellation,4451
+HTL200352,Crown Stay 352,Hyderabad,Hotel,4,Temporarily Blocked,Partial Refund,6254
+HTL200353,Regency Suites 353,Varanasi,Hotel,3,Temporarily Blocked,Free Cancellation,2916
+HTL200354,Green Leaf Suites 354,Varanasi,Hotel,4,Active,Non Refundable,10404
+HTL200355,Grand Hotel 355,Pune,Resort,2,Under Review,Non Refundable,15306
+HTL200356,Grand Suites 356,Goa,Hotel,3,Active,Partial Refund,2510
+HTL200357,Crown Palace 357,Chennai,Resort,4,Active,Non Refundable,17082
+HTL200358,Grand Resort 358,Bengaluru,Hotel,3,Active,Free Cancellation,5457
+HTL200359,Grand Palace 359,Shimla,Hotel,2,Active,Partial Refund,17046
+HTL200360,Silver Oak Palace 360,Kolkata,Resort,3,Active,Partial Refund,11620
+HTL200361,Metro Inn 361,Goa,Hotel,4,Temporarily Blocked,Partial Refund,14212
+HTL200362,Blue Bay Stay 362,Agra,Serviced Apartment,2,Active,Free Cancellation,1668
+HTL200363,Green Leaf Hotel 363,Mumbai,Hotel,3,Active,Non Refundable,7105
+HTL200364,Regency Inn 364,Manali,Hotel,2,Under Review,Free Cancellation,13508
+HTL200365,Heritage Palace 365,Udaipur,Hotel,4,Temporarily Blocked,Partial Refund,16834
+HTL200366,Palm Inn 366,Agra,Hotel,2,Under Review,Free Cancellation,16001
+HTL200367,Royal Suites 367,Pune,Serviced Apartment,4,Active,Non Refundable,10828
+HTL200368,Vista Palace 368,Agra,Villa,3,Under Review,Free Cancellation,9928
+HTL200369,Crown Hotel 369,Manali,Hotel,4,Under Review,Partial Refund,12205
+HTL200370,Urban Stay 370,Goa,Resort,5,Under Review,Free Cancellation,9090
+HTL200371,Lakeview Stay 371,Bengaluru,Resort,2,Active,Non Refundable,8277
+HTL200372,Heritage Palace 372,Chennai,Hotel,3,Active,Free Cancellation,3171
+HTL200373,Silver Oak Inn 373,Varanasi,Hotel,4,Active,Non Refundable,14768
+HTL200374,Royal Hotel 374,Pune,Villa,3,Temporarily Blocked,Free Cancellation,2391
+HTL200375,Heritage Suites 375,Ahmedabad,Serviced Apartment,3,Active,Non Refundable,14020
+HTL200376,Metro Resort 376,Jaipur,Serviced Apartment,4,Active,Free Cancellation,8965
+HTL200377,Pearl Hotel 377,Shimla,Homestay,5,Under Review,Free Cancellation,11454
+HTL200378,Pearl Resort 378,Kolkata,Resort,3,Under Review,Partial Refund,4246
+HTL200379,Riverfront Resort 379,Agra,Hotel,3,Under Review,Free Cancellation,12950
+HTL200380,Green Leaf Inn 380,Agra,Hotel,3,Under Review,Free Cancellation,13903
+HTL200381,Blue Bay Suites 381,Udaipur,Hotel,2,Active,Flexible 24H,17888
+HTL200382,Lakeview Suites 382,Goa,Resort,4,Temporarily Blocked,Flexible 24H,9243
+HTL200383,Lakeview Suites 383,Udaipur,Homestay,4,Active,Non Refundable,6108
+HTL200384,Riverfront Hotel 384,Udaipur,Homestay,4,Active,Free Cancellation,11827
+HTL200385,Pearl Hotel 385,Shimla,Villa,2,Active,Free Cancellation,4004
+HTL200386,Lakeview Stay 386,Udaipur,Villa,3,Active,Partial Refund,11376
+HTL200387,Crown Suites 387,Chennai,Serviced Apartment,3,Active,Free Cancellation,5136
+HTL200388,Riverfront Resort 388,Varanasi,Hotel,3,Temporarily Blocked,Flexible 24H,11073
+HTL200389,Riverfront Resort 389,Udaipur,Homestay,4,Under Review,Free Cancellation,12590
+HTL200390,Lakeview Inn 390,Jaipur,Resort,3,Active,Flexible 24H,9566
+HTL200391,Sunrise Palace 391,Varanasi,Hotel,4,Temporarily Blocked,Partial Refund,15814
+HTL200392,Metro Palace 392,Agra,Serviced Apartment,4,Active,Non Refundable,7706
+HTL200393,Royal Suites 393,Mumbai,Villa,5,Active,Free Cancellation,9983
+HTL200394,Pearl Suites 394,Bengaluru,Hotel,4,Active,Flexible 24H,12370
+HTL200395,Urban Palace 395,Manali,Hotel,4,Active,Free Cancellation,15809
+HTL200396,Green Leaf Resort 396,Ahmedabad,Resort,3,Active,Partial Refund,8522
+HTL200397,Silver Oak Stay 397,Varanasi,Resort,3,Active,Non Refundable,13374
+HTL200398,Royal Palace 398,Pune,Serviced Apartment,3,Under Review,Free Cancellation,17408
+HTL200399,Metro Resort 399,Jaipur,Hotel,3,Active,Partial Refund,3610
+HTL200400,Sunrise Inn 400,Pune,Hotel,4,Under Review,Partial Refund,14836
+HTL200401,Silver Oak Hotel 401,Bengaluru,Hotel,4,Active,Free Cancellation,10239
+HTL200402,Green Leaf Inn 402,Ahmedabad,Hotel,3,Temporarily Blocked,Partial Refund,16190
+HTL200403,Riverfront Inn 403,Mumbai,Hotel,3,Under Review,Free Cancellation,7641
+HTL200404,Heritage Inn 404,Ahmedabad,Villa,2,Temporarily Blocked,Free Cancellation,9885
+HTL200405,Grand Inn 405,Hyderabad,Hotel,4,Active,Partial Refund,14978
+HTL200406,Green Leaf Suites 406,Pune,Hotel,4,Active,Partial Refund,14391
+HTL200407,Blue Bay Hotel 407,Ahmedabad,Hotel,4,Temporarily Blocked,Free Cancellation,10932
+HTL200408,Crown Palace 408,Pune,Hotel,3,Active,Flexible 24H,5156
+HTL200409,Urban Stay 409,Mumbai,Homestay,3,Temporarily Blocked,Non Refundable,7753
+HTL200410,Palm Inn 410,Goa,Resort,4,Under Review,Partial Refund,3565
+HTL200411,Grand Inn 411,Manali,Homestay,4,Active,Partial Refund,7868
+HTL200412,Blue Bay Palace 412,Jaipur,Hotel,3,Under Review,Free Cancellation,6200
+HTL200413,Riverfront Suites 413,Kochi,Hotel,4,Active,Non Refundable,4875
+HTL200414,Urban Resort 414,Shimla,Hotel,3,Active,Partial Refund,14107
+HTL200415,Lakeview Inn 415,Goa,Hotel,4,Temporarily Blocked,Free Cancellation,16336
+HTL200416,Riverfront Inn 416,Goa,Homestay,4,Active,Partial Refund,12355
+HTL200417,Sunrise Stay 417,Varanasi,Hotel,4,Under Review,Free Cancellation,13419
+HTL200418,Vista Palace 418,Goa,Resort,3,Under Review,Free Cancellation,4447
+HTL200419,Silver Oak Hotel 419,Udaipur,Hotel,3,Temporarily Blocked,Non Refundable,5615
+HTL200420,Grand Hotel 420,Kolkata,Resort,4,Active,Partial Refund,7672
+HTL200421,Vista Suites 421,Pune,Villa,4,Active,Partial Refund,6048
+HTL200422,Crown Suites 422,Shimla,Resort,3,Temporarily Blocked,Partial Refund,2237
+HTL200423,Sunrise Resort 423,Agra,Resort,4,Under Review,Flexible 24H,16834
+HTL200424,Palm Hotel 424,Kochi,Serviced Apartment,2,Active,Partial Refund,9462
+HTL200425,Heritage Inn 425,Goa,Resort,5,Active,Partial Refund,12266
+HTL200426,Green Leaf Palace 426,Jaipur,Hotel,4,Active,Free Cancellation,16754
+HTL200427,Metro Hotel 427,Varanasi,Hotel,3,Active,Free Cancellation,8208
+HTL200428,Vista Stay 428,Kolkata,Resort,3,Active,Free Cancellation,16463
+HTL200429,Regency Inn 429,Manali,Homestay,2,Temporarily Blocked,Partial Refund,17438
+HTL200430,Urban Resort 430,Kolkata,Hotel,2,Temporarily Blocked,Non Refundable,6842
+HTL200431,Silver Oak Suites 431,Goa,Hotel,3,Active,Free Cancellation,17689
+HTL200432,Vista Suites 432,Ahmedabad,Serviced Apartment,4,Active,Free Cancellation,15731
+HTL200433,Green Leaf Palace 433,Chennai,Hotel,4,Active,Free Cancellation,11584
+HTL200434,Grand Hotel 434,Goa,Hotel,3,Active,Free Cancellation,17536
+HTL200435,Crown Hotel 435,Varanasi,Hotel,3,Active,Flexible 24H,14861
+HTL200436,Regency Resort 436,Chennai,Homestay,3,Temporarily Blocked,Partial Refund,12887
+HTL200437,Pearl Hotel 437,Goa,Hotel,2,Active,Free Cancellation,14604
+HTL200438,Palm Suites 438,Kochi,Resort,2,Temporarily Blocked,Non Refundable,5555
+HTL200439,Grand Resort 439,Jaipur,Hotel,4,Active,Non Refundable,2133
+HTL200440,Green Leaf Inn 440,Chennai,Resort,5,Active,Partial Refund,9966
+HTL200441,Palm Inn 441,Ahmedabad,Homestay,3,Under Review,Free Cancellation,7106
+HTL200442,Regency Stay 442,Udaipur,Hotel,4,Under Review,Partial Refund,13772
+HTL200443,Crown Stay 443,Kolkata,Hotel,5,Active,Free Cancellation,13479
+HTL200444,Green Leaf Suites 444,Goa,Hotel,2,Active,Non Refundable,11923
+HTL200445,Lakeview Suites 445,Kolkata,Hotel,4,Under Review,Partial Refund,11811
+HTL200446,Green Leaf Resort 446,Goa,Homestay,4,Active,Partial Refund,9461
+HTL200447,Royal Suites 447,Ahmedabad,Hotel,3,Active,Free Cancellation,5674
+HTL200448,Silver Oak Resort 448,Pune,Resort,3,Active,Free Cancellation,17838
+HTL200449,Sunrise Suites 449,Pune,Hotel,4,Active,Free Cancellation,5987
+HTL200450,Green Leaf Stay 450,Delhi,Hotel,4,Temporarily Blocked,Flexible 24H,14775
+HTL200451,Pearl Palace 451,Goa,Hotel,2,Active,Free Cancellation,9062
+HTL200452,Crown Stay 452,Delhi,Resort,3,Active,Free Cancellation,12156
+HTL200453,Grand Palace 453,Kochi,Hotel,2,Active,Flexible 24H,11863
+HTL200454,Crown Stay 454,Agra,Homestay,4,Temporarily Blocked,Partial Refund,17320
+HTL200455,Heritage Stay 455,Shimla,Hotel,3,Temporarily Blocked,Non Refundable,4942
+HTL200456,Blue Bay Hotel 456,Mumbai,Hotel,4,Active,Free Cancellation,3235
+HTL200457,Metro Suites 457,Mumbai,Homestay,3,Active,Partial Refund,3167
+HTL200458,Regency Inn 458,Kolkata,Homestay,2,Active,Partial Refund,3052
+HTL200459,Urban Inn 459,Chennai,Hotel,2,Temporarily Blocked,Non Refundable,11747
+HTL200460,Green Leaf Stay 460,Goa,Resort,3,Active,Free Cancellation,7818
+HTL200461,Green Leaf Inn 461,Kochi,Hotel,3,Active,Partial Refund,15059
+HTL200462,Regency Inn 462,Manali,Homestay,3,Under Review,Non Refundable,9503
+HTL200463,Pearl Stay 463,Bengaluru,Villa,2,Under Review,Partial Refund,12550
+HTL200464,Blue Bay Suites 464,Shimla,Homestay,3,Active,Partial Refund,17766
+HTL200465,Pearl Palace 465,Goa,Homestay,3,Temporarily Blocked,Free Cancellation,1364
+HTL200466,Sunrise Resort 466,Goa,Hotel,3,Under Review,Free Cancellation,8158
+HTL200467,Royal Inn 467,Kochi,Homestay,4,Temporarily Blocked,Partial Refund,3337
+HTL200468,Heritage Stay 468,Kochi,Hotel,4,Under Review,Partial Refund,11415
+HTL200469,Heritage Inn 469,Bengaluru,Hotel,5,Temporarily Blocked,Flexible 24H,7233
+HTL200470,Crown Inn 470,Mumbai,Hotel,2,Under Review,Non Refundable,3865
+HTL200471,Crown Palace 471,Delhi,Serviced Apartment,3,Temporarily Blocked,Partial Refund,14329
+HTL200472,Silver Oak Stay 472,Agra,Villa,3,Active,Non Refundable,13325
+HTL200473,Lakeview Resort 473,Kolkata,Hotel,3,Temporarily Blocked,Free Cancellation,7389
+HTL200474,Metro Resort 474,Mumbai,Homestay,4,Active,Partial Refund,14908
+HTL200475,Heritage Suites 475,Bengaluru,Homestay,3,Active,Free Cancellation,6295
+HTL200476,Vista Palace 476,Goa,Hotel,3,Active,Free Cancellation,15609
+HTL200477,Regency Palace 477,Mumbai,Hotel,3,Active,Non Refundable,8783
+HTL200478,Pearl Suites 478,Jaipur,Resort,5,Active,Partial Refund,2837
+HTL200479,Crown Suites 479,Manali,Hotel,5,Active,Partial Refund,15870
+HTL200480,Sunrise Hotel 480,Pune,Hotel,3,Temporarily Blocked,Partial Refund,7166
+HTL200481,Metro Palace 481,Varanasi,Resort,2,Active,Partial Refund,5870
+HTL200482,Metro Suites 482,Goa,Villa,4,Temporarily Blocked,Free Cancellation,6403
+HTL200483,Sunrise Palace 483,Ahmedabad,Resort,5,Temporarily Blocked,Partial Refund,9869
+HTL200484,Grand Palace 484,Agra,Homestay,3,Active,Partial Refund,16168
+HTL200485,Silver Oak Stay 485,Hyderabad,Hotel,3,Active,Non Refundable,3566
+HTL200486,Royal Suites 486,Bengaluru,Hotel,5,Active,Free Cancellation,1566
+HTL200487,Pearl Stay 487,Udaipur,Resort,4,Under Review,Free Cancellation,16847
+HTL200488,Green Leaf Palace 488,Chennai,Hotel,3,Under Review,Partial Refund,11107
+HTL200489,Lakeview Hotel 489,Shimla,Homestay,3,Active,Non Refundable,7806
+HTL200490,Heritage Resort 490,Ahmedabad,Hotel,5,Temporarily Blocked,Partial Refund,1212
+HTL200491,Urban Suites 491,Udaipur,Hotel,4,Active,Non Refundable,3517
+HTL200492,Crown Resort 492,Ahmedabad,Hotel,4,Under Review,Flexible 24H,16629
+HTL200493,Sunrise Palace 493,Manali,Serviced Apartment,4,Active,Flexible 24H,8685
+HTL200494,Urban Palace 494,Mumbai,Hotel,2,Active,Non Refundable,17959
+HTL200495,Pearl Hotel 495,Goa,Hotel,4,Active,Non Refundable,1456
+HTL200496,Grand Resort 496,Chennai,Hotel,3,Active,Free Cancellation,17103
+HTL200497,Blue Bay Suites 497,Chennai,Homestay,5,Active,Non Refundable,4412
+HTL200498,Urban Resort 498,Kolkata,Hotel,3,Temporarily Blocked,Partial Refund,7375
+HTL200499,Palm Inn 499,Udaipur,Hotel,4,Temporarily Blocked,Flexible 24H,14771
+HTL200500,Grand Inn 500,Kochi,Hotel,3,Under Review,Free Cancellation,17287
+HTL200501,Silver Oak Hotel 501,Goa,Resort,3,Under Review,Partial Refund,8646
+HTL200502,Vista Suites 502,Manali,Hotel,2,Active,Partial Refund,16077
+HTL200503,Vista Hotel 503,Kolkata,Hotel,4,Active,Partial Refund,14143
+HTL200504,Silver Oak Resort 504,kochi,Hotel,4,Under Review,Free Cancellation,11506
+HTL200505,Silver Oak Inn 505,Shimla,Resort,4,Under Review,Partial Refund,5216
+HTL200506,Regency Stay 506,Varanasi,Homestay,3,Active,Non Refundable,7112
+HTL200507,Green Leaf Suites 507,Manali,Hotel,2,Active,Partial Refund,1642
+HTL200508,Riverfront Inn 508,Delhi,Serviced Apartment,5,Active,Free Cancellation,4144
+HTL200509,Royal Resort 509,Agra,Serviced Apartment,4,Active,Non Refundable,5136
+HTL200510,Grand Resort 510,Udaipur,Hotel,4,Active,Free Cancellation,1598
+HTL200511,Palm Inn 511,Pune,Homestay,4,Active,Free Cancellation,16896
+HTL200512,Urban Resort 512,Shimla,Homestay,4,Active,Non Refundable,4195
+HTL200513,Sunrise Hotel 513,Pune,Villa,3,Under Review,Non Refundable,7529
+HTL200514,Sunrise Palace 514,Varanasi,Hotel,4,Temporarily Blocked,Partial Refund,3416
+HTL200515,Urban Stay 515,Agra,Hotel,4,Active,Partial Refund,12723
+HTL200516,Urban Resort 516,Kochi,Hotel,4,Active,Free Cancellation,3768
+HTL200517,Regency Palace 517,Manali,Homestay,4,Active,Partial Refund,1360
+HTL200518,Grand Hotel 518,Varanasi,Hotel,2,Under Review,Free Cancellation,16848
+HTL200519,Sunrise Stay 519,Ahmedabad,Hotel,3,Active,Flexible 24H,9267
+HTL200520,Vista Suites 520,Ahmedabad,Hotel,2,Temporarily Blocked,Non Refundable,5104
+HTL200521,Royal Inn 521,Kolkata,Hotel,2,Temporarily Blocked,Partial Refund,4773
+HTL200522,Pearl Suites 522,Agra,Resort,4,Temporarily Blocked,Partial Refund,3025
+HTL200523,Blue Bay Hotel 523,Shimla,Hotel,4,Active,Non Refundable,14986
+HTL200524,Palm Palace 524,Delhi,Hotel,2,Active,Partial Refund,11015
+HTL200525,Metro Resort 525,Jaipur,Villa,3,Active,Free Cancellation,14994
+HTL200526,Green Leaf Inn 526,Shimla,Hotel,5,Active,Free Cancellation,2376
+HTL200527,Royal Hotel 527,Manali,Homestay,4,Active,Partial Refund,9020
+HTL200528,Regency Suites 528,Jaipur,Hotel,3,Active,Flexible 24H,17714
+HTL200529,Royal Resort 529,Pune,Hotel,4,Active,Free Cancellation,2699
+HTL200530,Grand Hotel 530,Ahmedabad,Homestay,3,Under Review,Free Cancellation,8826
+HTL200531,Urban Resort 531,Hyderabad,Homestay,2,Temporarily Blocked,Partial Refund,17337
+HTL200532,Regency Suites 532,Bengaluru,Hotel,2,Active,Non Refundable,4908
+HTL200533,Lakeview Inn 533,Agra,Serviced Apartment,3,Active,Free Cancellation,2969
+HTL200534,Blue Bay Suites 534,Bengaluru,Villa,3,Active,Free Cancellation,10710
+HTL200535,Metro Inn 535,Hyderabad,Serviced Apartment,5,Active,Partial Refund,15426
+HTL200536,Regency Inn 536,Kolkata,Hotel,4,Active,Partial Refund,16834
+HTL200537,Metro Hotel 537,Varanasi,Hotel,3,Under Review,Free Cancellation,7931
+HTL200538,Regency Hotel 538,Agra,Resort,3,Under Review,Free Cancellation,12165
+HTL200539,Palm Inn 539,Ahmedabad,Resort,3,Temporarily Blocked,Partial Refund,1575
+HTL200540,Silver Oak Suites 540,Bengaluru,Hotel,4,Active,Partial Refund,16717
+HTL200541,Crown Hotel 541,Bengaluru,Homestay,4,Under Review,Flexible 24H,7418
+HTL200542,Crown Suites 542,Udaipur,Hotel,3,Active,Partial Refund,9695
+HTL200543,Riverfront Inn 543,Udaipur,Hotel,2,Active,Free Cancellation,2285
+HTL200544,Palm Hotel 544,Hyderabad,Hotel,4,Active,Partial Refund,14273
+HTL200545,Riverfront Resort 545,Varanasi,Homestay,3,Active,Partial Refund,12571
+HTL200546,Green Leaf Resort 546,Goa,Hotel,3,Active,Free Cancellation,12426
+HTL200547,Royal Suites 547,Shimla,Homestay,4,Active,Flexible 24H,11246
+HTL200548,Lakeview Inn 548,Agra,Resort,3,Temporarily Blocked,Non Refundable,17851
+HTL200549,Crown Stay 549,Manali,Homestay,3,Temporarily Blocked,Free Cancellation,12241
+HTL200550,Vista Stay 550,Delhi,Serviced Apartment,3,Active,Free Cancellation,5549
+HTL200551,Green Leaf Stay 551,Kolkata,Resort,3,Active,Free Cancellation,6165
+HTL200552,Royal Hotel 552,Udaipur,Serviced Apartment,5,Temporarily Blocked,Free Cancellation,14692
+HTL200553,Vista Stay 553,Udaipur,Hotel,5,Active,Partial Refund,14536
+HTL200554,Regency Stay 554,Jaipur,Hotel,5,Active,Partial Refund,13884
+HTL200555,Green Leaf Hotel 555,Agra,Hotel,4,Active,Flexible 24H,7854
+HTL200556,Metro Inn 556,Ahmedabad,Hotel,3,Active,Free Cancellation,8542
+HTL200557,Silver Oak Palace 557,Delhi,Homestay,4,Active,Partial Refund,3558
+HTL200558,Royal Stay 558,Agra,Hotel,5,Under Review,Non Refundable,7560
+HTL200559,Heritage Inn 559,JAIPUR,Hotel,3,Under Review,Partial Refund,4943
+HTL200560,Riverfront Suites 560,Manali,Resort,3,Active,Free Cancellation,8359
+HTL200561,Sunrise Suites 561,Goa,Resort,4,Active,Free Cancellation,1718
+HTL200562,Blue Bay Suites 562,Delhi,Hotel,4,Active,Free Cancellation,17852
+HTL200563,Royal Hotel 563,Bengaluru,Homestay,3,Temporarily Blocked,Flexible 24H,14125
+HTL200564,Urban Palace 564,Ahmedabad,Hotel,3,Active,Flexible 24H,16010
+HTL200565,Vista Suites 565,Ahmedabad,Hotel,4,Active,Flexible 24H,17439
+HTL200566,Heritage Stay 566,Jaipur,Resort,3,Active,Non Refundable,6675
+HTL200567,Palm Resort 567,Pune,Resort,4,Under Review,Free Cancellation,5385
+HTL200568,Urban Inn 568,Kolkata,Hotel,3,Temporarily Blocked,Flexible 24H,6361
+HTL200569,Silver Oak Stay 569,Bengaluru,Villa,5,Active,Flexible 24H,10780
+HTL200570,Silver Oak Stay 570,Delhi,Hotel,3,Active,Free Cancellation,11086
+HTL200571,Pearl Resort 571,Pune,Hotel,3,Under Review,Free Cancellation,12665
+HTL200572,Riverfront Inn 572,Goa,Hotel,2,Active,Partial Refund,12421
+HTL200573,Vista Inn 573,Shimla,Resort,2,Active,Free Cancellation,3535
+HTL200574,Vista Suites 574,Pune,Resort,4,Active,Free Cancellation,4874
+HTL200575,Heritage Stay 575,Udaipur,Hotel,3,Under Review,Flexible 24H,5776
+HTL200576,Lakeview Inn 576,Hyderabad,Hotel,3,Active,Flexible 24H,16172
+HTL200577,Lakeview Resort 577,Pune,Homestay,2,Active,Free Cancellation,1700
+HTL200578,Crown Hotel 578,Varanasi,Hotel,4,Temporarily Blocked,Partial Refund,9283
+HTL200579,Palm Hotel 579,Chennai,Hotel,4,Active,Non Refundable,9494
+HTL200580,Regency Stay 580,Kochi,Resort,3,Active,Partial Refund,16920
+HTL200581,Regency Inn 581,Goa,Hotel,4,Under Review,Partial Refund,6743
+HTL200582,Sunrise Resort 582,Kochi,Villa,4,Active,Non Refundable,4476
+HTL200583,Silver Oak Suites 583,Bengaluru,Hotel,4,Temporarily Blocked,Flexible 24H,7813
+HTL200584,Silver Oak Inn 584,Agra,Resort,3,Under Review,Flexible 24H,12929
+HTL200585,Silver Oak Resort 585,Jaipur,Hotel,4,Under Review,Free Cancellation,2527
+HTL200586,Green Leaf Inn 586,Mumbai,Homestay,3,Active,Free Cancellation,8972
+HTL200587,Regency Resort 587,Goa,Hotel,3,Temporarily Blocked,Flexible 24H,11866
+HTL200588,Crown Inn 588,Chennai,Resort,3,Active,Free Cancellation,17489
+HTL200589,Pearl Resort 589,Udaipur,Resort,3,Active,Non Refundable,6969
+HTL200590,Metro Resort 590,Jaipur,Hotel,2,Active,Free Cancellation,14863
+HTL200591,Regency Palace 591,Shimla,Hotel,5,Active,Partial Refund,7118
+HTL200592,Lakeview Suites 592,Kolkata,Resort,3,Active,Partial Refund,5755
+HTL200593,Heritage Resort 593,Shimla,Serviced Apartment,3,Under Review,Free Cancellation,3594
+HTL200594,Riverfront Resort 594,Agra,Hotel,3,Active,Flexible 24H,1866
+HTL200595,Palm Palace 595,Shimla,Hotel,3,Temporarily Blocked,Free Cancellation,13555
+HTL200596,Vista Stay 596,Ahmedabad,Homestay,3,Active,Flexible 24H,3434
+HTL200597,Urban Suites 597,Ahmedabad,Hotel,3,Temporarily Blocked,Flexible 24H,7535
+HTL200598,Riverfront Suites 598,Agra,Serviced Apartment,2,Active,Free Cancellation,12703
+HTL200599,Vista Palace 599,Mumbai,Resort,3,Under Review,Non Refundable,7559
+HTL200600,Regency Stay 600,Pune,Resort,3,Temporarily Blocked,Free Cancellation,17760
+HTL200601,Crown Inn 601,Kochi,Hotel,2,Active,Non Refundable,15076
+HTL200602,Sunrise Inn 602,Chennai,Hotel,4,Under Review,Partial Refund,4128
+HTL200603,Metro Palace 603,Agra,Resort,4,Under Review,Free Cancellation,8817
+HTL200604,Silver Oak Suites 604,Manali,Villa,4,Temporarily Blocked,Partial Refund,8814
+HTL200605,Grand Suites 605,Pune,Serviced Apartment,3,Temporarily Blocked,Non Refundable,5474
+HTL200606,Blue Bay Suites 606,Shimla,Hotel,3,Active,Flexible 24H,6171
+HTL200607,Royal Suites 607,Kolkata,Hotel,5,Active,Free Cancellation,9589
+HTL200608,Royal Hotel 608,Goa,Hotel,2,Under Review,Partial Refund,3704
+HTL200609,Royal Resort 609,Hyderabad,Homestay,2,Active,Free Cancellation,7206
+HTL200610,Blue Bay Resort 610,Chennai,Hotel,3,Active,Non Refundable,9143
+HTL200611,Crown Hotel 611,Delhi,Hotel,2,Active,Free Cancellation,2123
+HTL200612,Silver Oak Palace 612,Manali,Hotel,3,Under Review,Non Refundable,11446
+HTL200613,Lakeview Palace 613,Bengaluru,Hotel,4,Active,Free Cancellation,13675
+HTL200614,Grand Suites 614,Shimla,Serviced Apartment,3,Active,Partial Refund,4286
+HTL200615,Crown Hotel 615,Delhi,Hotel,5,Temporarily Blocked,Non Refundable,16060
+HTL200616,Riverfront Suites 616,Hyderabad,Hotel,3,Under Review,Non Refundable,8607
+HTL200617,Regency Stay 617,Kolkata,Hotel,3,Active,Non Refundable,1974
+HTL200618,Crown Resort 618,Delhi,Hotel,5,Active,Partial Refund,9909
+HTL200619,Sunrise Resort 619,Shimla,Hotel,4,Under Review,Flexible 24H,17511
+HTL200620,Urban Resort 620,Udaipur,Hotel,3,Under Review,Partial Refund,2543
+HTL200621,Grand Hotel 621,Chennai,Resort,3,Temporarily Blocked,Flexible 24H,11361
+HTL200622,Royal Suites 622,Udaipur,Hotel,4,Under Review,Partial Refund,12619
+HTL200623,Blue Bay Suites 623,Mumbai,Hotel,3,Temporarily Blocked,Partial Refund,8997
+HTL200624,Green Leaf Palace 624,Shimla,Hotel,3,Active,Free Cancellation,2134
+HTL200625,Blue Bay Resort 625,Hyderabad,Homestay,4,Active,Partial Refund,3186
+HTL200626,Vista Stay 626,Mumbai,Resort,3,Active,Free Cancellation,15216
+HTL200627,Grand Palace 627,Mumbai,Resort,2,Under Review,Non Refundable,6665
+HTL200628,Grand Hotel 628,Mumbai,Resort,3,Under Review,Partial Refund,11166
+HTL200629,Heritage Palace 629,Agra,Resort,3,Active,Flexible 24H,16921
+HTL200630,Sunrise Stay 630,Varanasi,Hotel,4,Temporarily Blocked,Free Cancellation,2705
+HTL200631,Grand Suites 631,Goa,Serviced Apartment,2,Active,Free Cancellation,6563
+HTL200632,Palm Stay 632,Manali,Hotel,4,Temporarily Blocked,Non Refundable,17140
+HTL200633,Metro Palace 633,Ahmedabad,Hotel,3,Active,Partial Refund,12046
+HTL200634,Palm Hotel 634,Agra,Homestay,3,Active,Partial Refund,2210
+HTL200635,Silver Oak Resort 635,Goa,Hotel,2,Active,Non Refundable,16124
+HTL200636,Riverfront Resort 636,Manali,Serviced Apartment,4,Active,Partial Refund,14682
+HTL200637,Blue Bay Hotel 637,Ahmedabad,Hotel,5,Active,Free Cancellation,10569
+HTL200638,Metro Palace 638,Hyderabad,Villa,3,Active,Flexible 24H,5057
+HTL200639,Silver Oak Stay 639,Ahmedabad,Homestay,3,Active,Free Cancellation,11064
+HTL200640,Lakeview Inn 640,Varanasi,Serviced Apartment,3,Temporarily Blocked,Flexible 24H,11320
+HTL200641,Crown Stay 641,Shimla,Villa,4,Active,Free Cancellation,12570
+HTL200642,Metro Resort 642,Ahmedabad,Villa,2,Active,Partial Refund,3753
+HTL200643,Lakeview Hotel 643,Manali,Homestay,4,Temporarily Blocked,Free Cancellation,16689
+HTL200644,Urban Resort 644,Manali,Hotel,3,Active,Non Refundable,5589
+HTL200645,Palm Palace 645,Varanasi,Hotel,3,Active,Free Cancellation,12289
+HTL200646,Pearl Resort 646,Manali,Resort,3,Temporarily Blocked,Non Refundable,10431
+HTL200647,Palm Palace 647,Kochi,Serviced Apartment,3,Temporarily Blocked,Partial Refund,4251
+HTL200648,Metro Suites 648,Jaipur,Resort,4,Temporarily Blocked,Free Cancellation,6522
+HTL200649,Heritage Stay 649,Agra,Villa,4,Active,Non Refundable,12989
+HTL200650,Green Leaf Inn 650,Ahmedabad,Homestay,3,Active,Partial Refund,3755
+HTL200651,Silver Oak Palace 651,Delhi,Hotel,3,Temporarily Blocked,Free Cancellation,13967
+HTL200652,Pearl Palace 652,Goa,Hotel,3,Active,Free Cancellation,1658
+HTL200653,Heritage Palace 653,Agra,Hotel,4,Active,Partial Refund,16901
+HTL200654,Grand Palace 654,Pune,Hotel,3,Active,Free Cancellation,17266
+HTL200655,Regency Resort 655,Udaipur,Resort,3,Active,Free Cancellation,5921
+HTL200656,Palm Hotel 656,Agra,Serviced Apartment,3,Active,Free Cancellation,13646
+HTL200657,Silver Oak Hotel 657,Goa,Homestay,3,Temporarily Blocked,Partial Refund,7504
+HTL200658,Royal Stay 658,Kolkata,Hotel,3,Active,Partial Refund,14765
+HTL200659,Blue Bay Resort 659,Mumbai,Hotel,2,Active,Free Cancellation,11399
+HTL200660,Green Leaf Palace 660,Goa,Hotel,2,Temporarily Blocked,Flexible 24H,3120
+HTL200661,Regency Palace 661,Varanasi,Hotel,4,Active,Flexible 24H,14427
+HTL200662,Crown Stay 662,Kochi,Hotel,3,Under Review,Free Cancellation,8894
+HTL200663,Metro Suites 663,Hyderabad,Hotel,2,Active,Free Cancellation,7498
+HTL200664,Sunrise Resort 664,Udaipur,Hotel,4,Temporarily Blocked,Flexible 24H,7829
+HTL200665,Lakeview Hotel 665,Udaipur,Hotel,2,Temporarily Blocked,Partial Refund,13919
+HTL200666,Heritage Palace 666,Manali,Villa,4,Active,Free Cancellation,6346
+HTL200667,Palm Palace 667,Jaipur,Hotel,3,Active,Partial Refund,11506
+HTL200668,Sunrise Palace 668,Agra,Hotel,2,Active,Non Refundable,3789
+HTL200669,Pearl Palace 669,Bengaluru,Hotel,3,Active,Free Cancellation,5510
+HTL200670,Urban Suites 670,Agra,Hotel,2,Active,Non Refundable,3441
+HTL200671,Crown Suites 671,Bengaluru,Resort,4,Active,Non Refundable,14801
+HTL200672,Metro Hotel 672,Delhi,Homestay,3,Under Review,Partial Refund,8911
+HTL200673,Pearl Resort 673,Pune,Hotel,2,Active,Non Refundable,2138
+HTL200674,Palm Stay 674,Chennai,Resort,3,Active,Free Cancellation,5501
+HTL200675,Metro Hotel 675,Hyderabad,Hotel,3,Active,Partial Refund,5170
+HTL200676,Lakeview Hotel 676,Kolkata,Resort,3,Active,Partial Refund,5199
+HTL200677,Royal Palace 677,Goa,Hotel,3,Active,Partial Refund,4608
+HTL200678,Urban Hotel 678,Hyderabad,Hotel,3,Active,Free Cancellation,15007
+HTL200679,Blue Bay Stay 679,Pune,Homestay,4,Active,Free Cancellation,10162
+HTL200680,Lakeview Palace 680,Bengaluru,Homestay,3,Under Review,Free Cancellation,17832
+HTL200681,Silver Oak Stay 681,Hyderabad,Resort,4,Temporarily Blocked,Free Cancellation,14585
+HTL200682,Metro Hotel 682,Shimla,Hotel,4,Active,Free Cancellation,7150
+HTL200683,Royal Suites 683,Kochi,Hotel,3,Active,Non Refundable,4126
+HTL200684,Heritage Suites 684,Goa,Serviced Apartment,4,Active,Free Cancellation,9175
+HTL200685,Pearl Hotel 685,Jaipur,Hotel,4,Active,Partial Refund,8166
+HTL200686,Riverfront Suites 686,Delhi,Hotel,3,Under Review,Free Cancellation,10333
+HTL200687,Pearl Palace 687,Jaipur,Hotel,5,Active,Free Cancellation,7787
+HTL200688,Sunrise Inn 688,Bengaluru,Hotel,3,Active,Free Cancellation,6291
+HTL200689,Regency Resort 689,Mumbai,Hotel,3,Temporarily Blocked,Free Cancellation,10185
+HTL200690,Sunrise Resort 690,Agra,Hotel,4,Active,Partial Refund,2761
+HTL200691,Royal Inn 691,Bengaluru,Hotel,3,Active,Free Cancellation,9844
+HTL200692,Riverfront Resort 692,Delhi,Villa,3,Temporarily Blocked,Flexible 24H,15985
+HTL200693,Blue Bay Suites 693,Shimla,Hotel,2,Active,Flexible 24H,4856
+HTL200694,Sunrise Hotel 694,Goa,Hotel,4,Temporarily Blocked,Partial Refund,17339
+HTL200695,Urban Suites 695,Kochi,Resort,4,Temporarily Blocked,Non Refundable,1409
+HTL200696,Vista Palace 696,Ahmedabad,Resort,3,Temporarily Blocked,Free Cancellation,6183
+HTL200697,Vista Hotel 697,Pune,Hotel,5,Active,Partial Refund,8341
+HTL200698,Vista Hotel 698,Ahmedabad,Homestay,3,Temporarily Blocked,Non Refundable,11318
+HTL200699,Silver Oak Inn 699,Chennai,Hotel,3,Active,Free Cancellation,17461
+HTL200700,Royal Stay 700,Varanasi,Homestay,4,Under Review,Free Cancellation,5166
+HTL200701,Blue Bay Palace 701,Jaipur,Hotel,4,Under Review,Free Cancellation,11269
+HTL200702,Crown Inn 702,Bengaluru,Hotel,3,Temporarily Blocked,Partial Refund,10018
+HTL200703,Pearl Stay 703,Pune,Villa,2,Under Review,Partial Refund,12118
+HTL200704,Blue Bay Inn 704,Kochi,Resort,4,Under Review,Partial Refund,10850
+HTL200705,Grand Palace 705,Jaipur,Hotel,5,Temporarily Blocked,Partial Refund,2450
+HTL200706,Green Leaf Suites 706,Bengaluru,Hotel,4,Temporarily Blocked,Partial Refund,5958
+HTL200707,Crown Resort 707,Delhi,Hotel,3,Active,Non Refundable,5563
+HTL200708,Heritage Inn 708,Jaipur,Resort,5,Active,Free Cancellation,3363
+HTL200709,Silver Oak Stay 709,Bengaluru,Hotel,5,Active,Non Refundable,11015
+HTL200710,Metro Suites 710,Varanasi,Hotel,3,Temporarily Blocked,Non Refundable,3053
+HTL200711,Urban Inn 711,Goa,Hotel,4,Temporarily Blocked,Non Refundable,3068
+HTL200712,Metro Resort 712,Kochi,Resort,4,Under Review,Non Refundable,17765
+HTL200713,Riverfront Palace 713,Delhi,Homestay,5,Active,Partial Refund,16768
+HTL200714,Pearl Hotel 714,Pune,Homestay,4,Under Review,Free Cancellation,10294
+HTL200715,Heritage Resort 715,Varanasi,Hotel,4,Temporarily Blocked,Partial Refund,6438
+HTL200716,Regency Resort 716,Pune,Villa,4,Temporarily Blocked,Flexible 24H,8289
+HTL200717,Blue Bay Suites 717,Chennai,Resort,3,Under Review,Partial Refund,6480
+HTL200718,Silver Oak Inn 718,Hyderabad,Villa,4,Temporarily Blocked,Free Cancellation,5444
+HTL200719,Green Leaf Suites 719,Mumbai,Hotel,4,Active,Free Cancellation,3364
+HTL200720,Heritage Suites 720,Goa,Hotel,5,Active,Flexible 24H,16349
+HTL200721,Grand Stay 721,Delhi,Homestay,3,Active,Free Cancellation,15288
+HTL200722,Sunrise Inn 722,Ahmedabad,Hotel,3,Active,Free Cancellation,4021
+HTL200723,Crown Palace 723,Jaipur,Hotel,3,Active,Free Cancellation,11673
+HTL200724,Royal Hotel 724,Pune,Homestay,4,Temporarily Blocked,Flexible 24H,14886
+HTL200725,Palm Stay 725,Varanasi,Homestay,4,Under Review,Free Cancellation,10962
+HTL200726,Royal Stay 726,Agra,Serviced Apartment,2,Active,Partial Refund,7169
+HTL200727,Royal Palace 727,Kochi,Resort,3,Temporarily Blocked,Partial Refund,13378
+HTL200728,Lakeview Palace 728,Goa,Hotel,2,Active,Free Cancellation,7368
+HTL200729,Grand Inn 729,Delhi,Hotel,2,Active,Flexible 24H,15296
+HTL200730,Lakeview Hotel 730,Delhi,Hotel,4,Active,Partial Refund,8403
+HTL200731,Riverfront Hotel 731,Jaipur,Hotel,3,Temporarily Blocked,Partial Refund,4745
+HTL200732,Lakeview Stay 732,Delhi,Hotel,3,Active,Non Refundable,2063
+HTL200733,Palm Hotel 733,Shimla,Hotel,2,Active,Flexible 24H,17348
+HTL200734,Heritage Suites 734,Kolkata,Resort,2,Active,Partial Refund,1853
+HTL200735,Grand Resort 735,Goa,Homestay,4,Active,Free Cancellation,9329
+HTL200736,Vista Palace 736,Bengaluru,Serviced Apartment,3,Active,Non Refundable,1643
+HTL200737,Lakeview Palace 737,Shimla,Homestay,5,Active,Partial Refund,6306
+HTL200738,Palm Stay 738,Shimla,Homestay,3,Active,Flexible 24H,5636
+HTL200739,Heritage Hotel 739,Pune,Resort,3,Under Review,Flexible 24H,10672
+HTL200740,Lakeview Stay 740,Pune,Serviced Apartment,3,Active,Free Cancellation,4239
+HTL200741,Lakeview Resort 741,Bengaluru,Resort,4,Under Review,Flexible 24H,9491
+HTL200742,Lakeview Inn 742,Goa,Homestay,3,Active,Free Cancellation,11478
+HTL200743,Regency Suites 743,Manali,Serviced Apartment,5,Active,Partial Refund,17485
+HTL200744,Blue Bay Resort 744,Mumbai,Villa,4,Active,Free Cancellation,15144
+HTL200745,Blue Bay Resort 745,Agra,Hotel,3,Active,Flexible 24H,3937
+HTL200746,Vista Resort 746,Goa,Hotel,4,Active,Partial Refund,2807
+HTL200747,Sunrise Inn 747,Udaipur,Hotel,5,Active,Partial Refund,4153
+HTL200748,Regency Suites 748,Ahmedabad,Hotel,3,Temporarily Blocked,Flexible 24H,13373
+HTL200749,Regency Resort 749,Delhi,Hotel,3,Active,Partial Refund,7133
+HTL200750,Green Leaf Inn 750,Hyderabad,Hotel,4,Temporarily Blocked,Partial Refund,12586
+HTL200751,Grand Palace 751,Jaipur,Hotel,3,Active,Non Refundable,16421
+HTL200752,Urban Inn 752,Kolkata,Hotel,5,Active,Non Refundable,5882
+HTL200753,Regency Suites 753,Hyderabad,Resort,3,Temporarily Blocked,Flexible 24H,16053
+HTL200754,Urban Stay 754,Bengaluru,Hotel,2,Active,Flexible 24H,12484
+HTL200755,Urban Palace 755,Jaipur,Resort,5,Active,Partial Refund,12354
+HTL200756,Lakeview Resort 756,Jaipur,Resort,4,Under Review,Partial Refund,10247
+HTL200757,Green Leaf Hotel 757,Agra,Resort,2,Active,Free Cancellation,11538
+HTL200758,Metro Resort 758,Varanasi,Villa,5,Under Review,Partial Refund,15523
+HTL200759,Riverfront Inn 759,Jaipur,Hotel,3,Active,Free Cancellation,6125
+HTL200760,Lakeview Suites 760,Pune,Hotel,3,Temporarily Blocked,Non Refundable,6983
+HTL200761,Royal Resort 761,Kolkata,Hotel,5,Active,Free Cancellation,13543
+HTL200762,Crown Palace 762,Pune,Hotel,3,Temporarily Blocked,Free Cancellation,11117
+HTL200763,Pearl Hotel 763,Delhi,Resort,2,Under Review,Free Cancellation,11345
+HTL200764,Lakeview Inn 764,Udaipur,Hotel,3,Active,Free Cancellation,7923
+HTL200765,Royal Inn 765,Chennai,Hotel,4,Temporarily Blocked,Partial Refund,17768
+HTL200766,Heritage Palace 766,Agra,Hotel,2,Under Review,Free Cancellation,14549
+HTL200767,Sunrise Resort 767,Kolkata,Hotel,3,Under Review,Free Cancellation,2202
+HTL200768,Crown Hotel 768,Shimla,Resort,4,Under Review,Free Cancellation,7466
+HTL200769,Palm Palace 769,Varanasi,Resort,3,Active,Non Refundable,12530
+HTL200770,Urban Resort 770,Hyderabad,Hotel,4,Active,Non Refundable,16180
+HTL200771,Pearl Suites 771,Kochi,Hotel,5,Active,Free Cancellation,8217
+HTL200772,Lakeview Hotel 772,Delhi,Hotel,3,Active,Non Refundable,9785
+HTL200773,Silver Oak Hotel 773,Goa,Hotel,3,Active,Partial Refund,17211
+HTL200774,Palm Hotel 774,Bengaluru,Villa,3,Active,Free Cancellation,6724
+HTL200775,Regency Hotel 775,Shimla,Hotel,4,Active,Partial Refund,6450
+HTL200776,Sunrise Inn 776,Udaipur,Homestay,4,Temporarily Blocked,Free Cancellation,8712
+HTL200777,Heritage Palace 777,Delhi,Villa,3,Active,Non Refundable,1519
+HTL200778,Royal Suites 778,Manali,Hotel,3,Active,Free Cancellation,11616
+HTL200779,Lakeview Hotel 779,Goa,Hotel,3,Under Review,Flexible 24H,4800
+HTL200780,Regency Stay 780,Udaipur,Serviced Apartment,3,Temporarily Blocked,Free Cancellation,6479
+HTL200781,Riverfront Suites 781,Manali,Homestay,3,Active,Partial Refund,16694
+HTL200782,Silver Oak Resort 782,Goa,Hotel,4,Active,Flexible 24H,13598
+HTL200783,Grand Palace 783,Kolkata,Homestay,3,Under Review,Free Cancellation,1482
+HTL200784,Heritage Hotel 784,Agra,Homestay,4,Under Review,Partial Refund,15230
+HTL200785,Regency Inn 785,Manali,Hotel,3,Temporarily Blocked,Free Cancellation,16502
+HTL200786,Vista Hotel 786,Kochi,Villa,3,Active,Partial Refund,6366
+HTL200787,Royal Inn 787,Ahmedabad,Hotel,2,Active,Free Cancellation,8321
+HTL200788,Palm Palace 788,Goa,Hotel,4,Under Review,Free Cancellation,15877
+HTL200789,Pearl Inn 789,Shimla,Serviced Apartment,3,Under Review,Partial Refund,17573
+HTL200790,Green Leaf Palace 790,Udaipur,Homestay,2,Under Review,Partial Refund,6096
+HTL200791,Pearl Stay 791,Goa,Hotel,3,Under Review,Partial Refund,17714
+HTL200792,Lakeview Hotel 792,Kochi,Hotel,4,Temporarily Blocked,Free Cancellation,2493
+HTL200793,Green Leaf Hotel 793,Hyderabad,Resort,2,Active,Free Cancellation,8157
+HTL200794,Crown Palace 794,Delhi,Resort,2,Under Review,Partial Refund,17644
+HTL200795,Silver Oak Suites 795,Udaipur,Resort,4,Active,Partial Refund,10940
+HTL200796,Royal Inn 796,Hyderabad,Serviced Apartment,4,Active,Free Cancellation,13759
+HTL200797,Sunrise Stay 797,Goa,Homestay,3,Active,Free Cancellation,11173
+HTL200798,Regency Hotel 798,Goa,Hotel,4,Under Review,Free Cancellation,7476
+HTL200799,Sunrise Inn 799,Shimla,Hotel,3,Under Review,Free Cancellation,9352
+HTL200800,Regency Resort 800,Jaipur,Hotel,4,Under Review,Free Cancellation,9173
+HTL200801,Green Leaf Resort 801,Udaipur,Resort,4,Under Review,Free Cancellation,16533
+HTL200802,Palm Inn 802,Varanasi,Resort,2,Under Review,Partial Refund,1237
+HTL200803,Green Leaf Stay 803,Ahmedabad,Hotel,4,Active,Partial Refund,7190
+HTL200804,Silver Oak Hotel 804,Varanasi,Hotel,3,Active,Partial Refund,6638
+HTL200805,Green Leaf Inn 805,Kolkata,Hotel,3,Active,Free Cancellation,16935
+HTL200806,Riverfront Hotel 806,Ahmedabad,Hotel,4,Active,Free Cancellation,12056
+HTL200807,Riverfront Inn 807,Manali,Hotel,5,Active,Partial Refund,1673
+HTL200808,Regency Hotel 808,Goa,Hotel,2,Under Review,Flexible 24H,1258
+HTL200809,Pearl Inn 809,Shimla,Hotel,2,Active,Non Refundable,3836
+HTL200810,Regency Palace 810,Bengaluru,Hotel,2,Temporarily Blocked,Non Refundable,16034
+HTL200811,Grand Inn 811,Pune,Resort,5,Temporarily Blocked,Non Refundable,16777
+HTL200812,Silver Oak Hotel 812,Chennai,Hotel,4,Temporarily Blocked,Free Cancellation,8496
+HTL200813,Royal Stay 813,Pune,Homestay,4,Under Review,Free Cancellation,13870
+HTL200814,Grand Inn 814,Kolkata,Resort,2,Under Review,Partial Refund,10925
+HTL200815,Metro Stay 815,Varanasi,Resort,4,Active,Free Cancellation,3874
+HTL200816,Blue Bay Palace 816,Shimla,Resort,4,Active,Partial Refund,16996
+HTL200817,Riverfront Resort 817,Delhi,Hotel,4,Active,Non Refundable,12265
+HTL200818,Crown Inn 818,Agra,Hotel,3,Temporarily Blocked,Non Refundable,12226
+HTL200819,Green Leaf Hotel 819,Mumbai,Serviced Apartment,2,Under Review,Free Cancellation,3276
+HTL200820,Pearl Stay 820,Bengaluru,Homestay,3,Temporarily Blocked,Partial Refund,5987
+HTL200821,Regency Palace 821,Mumbai,Serviced Apartment,4,Active,Partial Refund,8694
+HTL200822,Crown Palace 822,Goa,Homestay,2,Under Review,Non Refundable,3781
+HTL200823,Riverfront Inn 823,Kochi,Hotel,4,Active,Non Refundable,16800
+HTL200824,Lakeview Palace 824,Delhi,Hotel,3,Active,Flexible 24H,15533
+HTL200825,Green Leaf Inn 825,Hyderabad,Resort,4,Active,Free Cancellation,11604
+HTL200826,Pearl Resort 826,Shimla,Hotel,3,Active,Partial Refund,12366
+HTL200827,Metro Stay 827,Ahmedabad,Hotel,2,Temporarily Blocked,Free Cancellation,2132
+HTL200828,Crown Palace 828,Shimla,Homestay,3,Active,Free Cancellation,9948
+HTL200829,Lakeview Inn 829,Goa,Hotel,3,Under Review,Flexible 24H,16777
+HTL200830,Sunrise Hotel 830,Mumbai,Hotel,3,Temporarily Blocked,Flexible 24H,16215
+HTL200831,Heritage Palace 831,Goa,Homestay,4,Active,Free Cancellation,17308
+HTL200832,Vista Inn 832,Chennai,Homestay,2,Temporarily Blocked,Free Cancellation,2304
+HTL200833,Palm Stay 833,Jaipur,Hotel,3,Active,Free Cancellation,14136
+HTL200834,Blue Bay Suites 834,Chennai,Homestay,2,Active,Non Refundable,10801
+HTL200835,Lakeview Hotel 835,Delhi,Homestay,2,Active,Free Cancellation,4846
+HTL200836,Blue Bay Hotel 836,Shimla,Hotel,3,Temporarily Blocked,Free Cancellation,16160
+HTL200837,Blue Bay Palace 837,Kochi,Hotel,2,Active,Free Cancellation,16078
+HTL200838,Pearl Inn 838,HYDERABAD,Hotel,3,Under Review,Partial Refund,10345
+HTL200839,Vista Inn 839,Chennai,Hotel,2,Active,Flexible 24H,4002
+HTL200840,Lakeview Hotel 840,Varanasi,Hotel,4,Under Review,Free Cancellation,17565
+HTL200841,Riverfront Palace 841,Udaipur,Serviced Apartment,2,Active,Partial Refund,7305
+HTL200842,Heritage Hotel 842,Shimla,Homestay,2,Active,Free Cancellation,3949
+HTL200843,Grand Stay 843,Shimla,Homestay,3,Active,Partial Refund,11381
+HTL200844,Royal Stay 844,Hyderabad,Serviced Apartment,5,Under Review,Non Refundable,2561
+HTL200845,Vista Stay 845,Manali,Villa,4,Active,Free Cancellation,4973
+HTL200846,Regency Stay 846,Kochi,Hotel,4,Under Review,Free Cancellation,14695
+HTL200847,Sunrise Palace 847,Mumbai,Hotel,2,Temporarily Blocked,Non Refundable,3264
+HTL200848,Sunrise Palace 848,Ahmedabad,Homestay,4,Active,Free Cancellation,6816
+HTL200849,Heritage Inn 849,Chennai,Hotel,2,Active,Partial Refund,9175
+HTL200850,Silver Oak Palace 850,Jaipur,Hotel,3,Temporarily Blocked,Partial Refund,12160
+HTL200851,Pearl Stay 851,Hyderabad,Resort,4,Active,Free Cancellation,16524
+HTL200852,Silver Oak Hotel 852,Goa,Villa,3,Active,Partial Refund,7443
+HTL200853,Green Leaf Resort 853,Jaipur,Hotel,5,Active,Non Refundable,10760
+HTL200854,Silver Oak Resort 854,Goa,Homestay,2,Active,Partial Refund,15884
+HTL200855,Metro Hotel 855,Kochi,Hotel,5,Active,Free Cancellation,9530
+HTL200856,Heritage Suites 856,Shimla,Resort,4,Temporarily Blocked,Partial Refund,6123
+HTL200857,Vista Stay 857,Chennai,Hotel,3,Under Review,Partial Refund,7667
+HTL200858,Metro Palace 858,Varanasi,Villa,2,Active,Partial Refund,7276
+HTL200859,Pearl Palace 859,Bengaluru,Hotel,3,Under Review,Partial Refund,9201
+HTL200860,Blue Bay Suites 860,Bengaluru,Resort,5,Active,Free Cancellation,16503
+HTL200861,Blue Bay Stay 861,Mumbai,Hotel,3,Active,Partial Refund,17657
+HTL200862,Metro Palace 862,Jaipur,Hotel,4,Temporarily Blocked,Partial Refund,9875
+HTL200863,Crown Palace 863,Goa,Hotel,5,Active,Free Cancellation,13503
+HTL200864,Heritage Palace 864,Kolkata,Hotel,3,Temporarily Blocked,Partial Refund,16328
+HTL200865,Sunrise Stay 865,Jaipur,Hotel,3,Under Review,Free Cancellation,7859
+HTL200866,Pearl Palace 866,Udaipur,Hotel,4,Active,Free Cancellation,6446
+HTL200867,Lakeview Resort 867,Mumbai,Resort,2,Active,Flexible 24H,8167
+HTL200868,Regency Stay 868,Pune,Resort,2,Active,Free Cancellation,7861
+HTL200869,Vista Palace 869,Pune,Hotel,3,Temporarily Blocked,Free Cancellation,13616
+HTL200870,Metro Hotel 870,Goa,Homestay,3,Temporarily Blocked,Partial Refund,1710
+HTL200871,Grand Stay 871,Bengaluru,Hotel,4,Active,Flexible 24H,9814
+HTL200872,Lakeview Inn 872,Hyderabad,Hotel,2,Active,Flexible 24H,3632
+HTL200873,Silver Oak Suites 873,UdAiPuR,Hotel,5,Active,Partial Refund,3106
+HTL200874,Royal Palace 874,Ahmedabad,Resort,2,Under Review,Free Cancellation,16754
+HTL200875,Royal Suites 875,Pune,Hotel,4,Active,Flexible 24H,17648
+HTL200876,Palm Suites 876,Goa,Serviced Apartment,3,Under Review,Partial Refund,6128
+HTL200877,Metro Palace 877,Goa,Hotel,2,Active,Free Cancellation,5910
+HTL200878,Palm Suites 878,Chennai,Hotel,2,Active,Non Refundable,12740
+HTL200879,Royal Palace 879,Bengaluru,Hotel,4,Temporarily Blocked,Partial Refund,7324
+HTL200880,Metro Suites 880,Ahmedabad,Villa,5,Active,Free Cancellation,9037
+HTL200881,Royal Resort 881,Jaipur,Resort,3,Active,Non Refundable,16783
+HTL200882,Riverfront Inn 882,Shimla,Homestay,3,Temporarily Blocked,Partial Refund,7309
+HTL200883,Green Leaf Palace 883,Hyderabad,Villa,3,Active,Free Cancellation,11109
+HTL200884,Silver Oak Suites 884,Chennai,Villa,2,Active,Free Cancellation,7859
+HTL200885,Metro Palace 885,Varanasi,Homestay,4,Under Review,Partial Refund,2438
+HTL200886,Royal Hotel 886,Pune,Hotel,4,Active,Free Cancellation,16264
+HTL200887,Silver Oak Hotel 887,Hyderabad,Homestay,3,Temporarily Blocked,Free Cancellation,6820
+HTL200888,Pearl Stay 888,Mumbai,Hotel,5,Active,Partial Refund,2686
+HTL200889,Royal Inn 889,Manali,Homestay,2,Active,Flexible 24H,5881
+HTL200890,Palm Suites 890,Varanasi,Resort,4,Active,Partial Refund,12690
+HTL200891,Riverfront Suites 891,Bengaluru,Homestay,3,Active,Non Refundable,5670
+HTL200892,Crown Stay 892,Pune,Hotel,3,Temporarily Blocked,Non Refundable,12923
+HTL200893,Blue Bay Palace 893,Kochi,Resort,3,Active,Partial Refund,15088
+HTL200894,Blue Bay Resort 894,Goa,Serviced Apartment,3,Under Review,Free Cancellation,8377
+HTL200895,Riverfront Suites 895,Pune,Hotel,4,Active,Non Refundable,14401
+HTL200896,Urban Suites 896,Kolkata,Hotel,4,Active,Partial Refund,6641
+HTL200897,Sunrise Palace 897,Delhi,Resort,3,Under Review,Free Cancellation,12919
+HTL200898,Lakeview Hotel 898,Kochi,Serviced Apartment,4,Temporarily Blocked,Free Cancellation,6597
+HTL200899,Royal Hotel 899,Delhi,Hotel,3,Active,Non Refundable,2821
+HTL200900,Palm Stay 900,Pune,Hotel,4,Active,Free Cancellation,5390
+HTL200901,Palm Suites 901,Kolkata,Hotel,2,Under Review,Free Cancellation,6254
+HTL200902,Sunrise Stay 902,Pune,Hotel,2,Temporarily Blocked,Non Refundable,2330
+HTL200903,Palm Inn 903,Delhi,Villa,3,Active,Flexible 24H,15271
+HTL200904,Pearl Hotel 904,Ahmedabad,Resort,3,Under Review,Partial Refund,13136
+HTL200905,Heritage Inn 905,chennai,Resort,4,Active,Free Cancellation,3318
+HTL200906,Heritage Resort 906,Mumbai,Hotel,3,Temporarily Blocked,Free Cancellation,1863
+HTL200907,Royal Palace 907,Manali,Homestay,2,Active,Partial Refund,16935
+HTL200908,Metro Hotel 908,Shimla,Hotel,3,Temporarily Blocked,Free Cancellation,10963
+HTL200909,Crown Inn 909,Delhi,Hotel,4,Temporarily Blocked,Partial Refund,9253
+HTL200910,Pearl Stay 910,Mumbai,Hotel,4,Active,Free Cancellation,5045
+HTL200911,Green Leaf Suites 911,Goa,Hotel,2,Active,Flexible 24H,14696
+HTL200912,Urban Stay 912,Mumbai,Hotel,2,Active,Partial Refund,7501
+HTL200913,Sunrise Hotel 913,Chennai,Hotel,4,Active,Free Cancellation,13085
+HTL200914,Silver Oak Inn 914,Kolkata,Hotel,2,Under Review,Non Refundable,17682
+HTL200915,Crown Suites 915,Shimla,Hotel,2,Active,Free Cancellation,3488
+HTL200916,Blue Bay Palace 916,Mumbai,Homestay,2,Active,Free Cancellation,8996
+HTL200917,Pearl Resort 917,Hyderabad,Hotel,3,Active,Non Refundable,8463
+HTL200918,Crown Resort 918,  Ahmedabad  ,Serviced Apartment,3,Temporarily Blocked,Free Cancellation,13977
+HTL200919,Blue Bay Stay 919,Varanasi,Hotel,4,Under Review,Partial Refund,9970
+HTL200920,Regency Stay 920,Jaipur,Homestay,3,Active,Free Cancellation,8585
+HTL200921,Grand Inn 921,Delhi,Villa,4,Temporarily Blocked,Free Cancellation,16062
+HTL200922,Crown Hotel 922,Kolkata,Serviced Apartment,2,Temporarily Blocked,Free Cancellation,9664
+HTL200923,Green Leaf Palace 923,Varanasi,Homestay,4,Active,Non Refundable,6081
+HTL200924,Green Leaf Inn 924,Udaipur,Hotel,3,Active,Partial Refund,17218
+HTL200925,Pearl Hotel 925,Agra,Hotel,3,Active,Free Cancellation,16891
+HTL200926,Lakeview Hotel 926,Goa,Hotel,3,Under Review,Free Cancellation,10567
+HTL200927,Palm Stay 927,Ahmedabad,Hotel,2,Active,Flexible 24H,1613
+HTL200928,Metro Inn 928,Ahmedabad,Hotel,3,Under Review,Flexible 24H,15914
+HTL200929,Crown Stay 929,Ahmedabad,Homestay,4,Active,Partial Refund,8341
+HTL200930,Riverfront Hotel 930,Jaipur,Resort,2,Active,Non Refundable,14382
+HTL200931,Royal Resort 931,Hyderabad,Resort,5,Temporarily Blocked,Non Refundable,17425
+HTL200932,Blue Bay Resort 932,Ahmedabad,Villa,5,Under Review,Free Cancellation,3146
+HTL200933,Urban Inn 933,Bengaluru,Resort,3,Active,Free Cancellation,1391
+HTL200934,Sunrise Stay 934,Chennai,Resort,5,Under Review,Free Cancellation,17624
+HTL200935,Grand Palace 935,Pune,Homestay,2,Under Review,Non Refundable,15375
+HTL200936,Urban Suites 936,Jaipur,Hotel,2,Active,Non Refundable,11251
+HTL200937,Blue Bay Palace 937,Kolkata,Hotel,2,Active,Partial Refund,7092
+HTL200938,Vista Inn 938,Kolkata,Serviced Apartment,3,Active,Free Cancellation,4649
+HTL200939,Blue Bay Stay 939,Kolkata,Villa,2,Temporarily Blocked,Partial Refund,9527
+HTL200940,Vista Palace 940,Goa,Villa,5,Active,Non Refundable,7109
+HTL200941,Urban Palace 941,Mumbai,Hotel,2,Active,Non Refundable,13593
+HTL200942,Heritage Inn 942,Delhi,Homestay,3,Active,Free Cancellation,3141
+HTL200943,Riverfront Palace 943,Manali,Hotel,4,Active,Non Refundable,5421
+HTL200944,Pearl Inn 944,Bengaluru,Hotel,3,Temporarily Blocked,Free Cancellation,7743
+HTL200945,Urban Inn 945,Pune,Hotel,3,Under Review,Non Refundable,15212
+HTL200946,Royal Suites 946,Kolkata,Hotel,4,Active,Partial Refund,3321
+HTL200947,Palm Stay 947,Pune,Hotel,3,Temporarily Blocked,Free Cancellation,12926
+HTL200948,Urban Stay 948,Shimla,Hotel,3,Active,Non Refundable,6856
+HTL200949,Green Leaf Resort 949,Udaipur,Hotel,3,Under Review,Free Cancellation,10167
+HTL200950,Vista Hotel 950,Goa,Hotel,3,Active,Non Refundable,16964
+HTL200951,Riverfront Palace 951,Kochi,Homestay,5,Active,Free Cancellation,17073
+HTL200952,Silver Oak Hotel 952,Kolkata,Resort,4,Temporarily Blocked,Non Refundable,12279
+HTL200953,Pearl Inn 953,Udaipur,Hotel,3,Active,Flexible 24H,3471
+HTL200954,Silver Oak Palace 954,Bengaluru,Hotel,3,Active,Free Cancellation,2807
+HTL200955,Lakeview Stay 955,Manali,Resort,3,Temporarily Blocked,Partial Refund,16879
+HTL200956,Grand Palace 956,Bengaluru,Hotel,5,Temporarily Blocked,Partial Refund,4865
+HTL200957,Urban Palace 957,Delhi,Hotel,2,Active,Free Cancellation,17508
+HTL200958,Royal Palace 958,Hyderabad,Resort,3,Active,Partial Refund,7052
+HTL200959,Urban Resort 959,Delhi,Serviced Apartment,4,Active,Non Refundable,6662
+HTL200960,Lakeview Resort 960,Mumbai,Hotel,5,Active,Flexible 24H,5470
+HTL200961,Metro Stay 961,Pune,Hotel,2,Temporarily Blocked,Non Refundable,16897
+HTL200962,Urban Resort 962,Chennai,Hotel,3,Active,Partial Refund,4662
+HTL200963,Riverfront Hotel 963,Bengaluru,Resort,3,Active,Non Refundable,16674
+HTL200964,Silver Oak Palace 964,Ahmedabad,Hotel,2,Active,Non Refundable,1547
+HTL200965,Grand Hotel 965,Chennai,Hotel,4,Active,Partial Refund,17584
+HTL200966,Sunrise Stay 966,Goa,Hotel,4,Temporarily Blocked,Free Cancellation,1262
+HTL200967,Green Leaf Suites 967,Varanasi,Serviced Apartment,4,Active,Partial Refund,2983
+HTL200968,Silver Oak Stay 968,Jaipur,Homestay,2,Temporarily Blocked,Non Refundable,9617
+HTL200969,Metro Palace 969,Shimla,Resort,2,Active,Partial Refund,7766
+HTL200970,Heritage Resort 970,Kolkata,Homestay,3,Active,Non Refundable,12072
+HTL200971,Crown Inn 971,Goa,Hotel,3,Temporarily Blocked,Free Cancellation,16518
+HTL200972,Heritage Inn 972,Agra,Homestay,4,Active,Flexible 24H,2434
+HTL200973,Royal Inn 973,Shimla,Resort,2,Active,Partial Refund,3184
+HTL200974,Silver Oak Stay 974,Bengaluru,Hotel,2,Under Review,Partial Refund,3152
+HTL200975,Urban Resort 975,Udaipur,Homestay,3,Active,Free Cancellation,4491
+HTL200976,Blue Bay Palace 976,Ahmedabad,Homestay,3,Temporarily Blocked,Free Cancellation,9748
+HTL200977,Crown Suites 977,Pune,Homestay,3,Active,Non Refundable,15704
+HTL200978,Vista Palace 978,Ahmedabad,Hotel,4,Active,Flexible 24H,12987
+HTL200979,Heritage Suites 979,Chennai,Serviced Apartment,2,Active,Free Cancellation,2168
+HTL200980,Sunrise Suites 980,Manali,Serviced Apartment,4,Active,Free Cancellation,17825
+HTL200981,Palm Suites 981,Delhi,Hotel,3,Active,Free Cancellation,5434
+HTL200982,Lakeview Suites 982,Jaipur,Hotel,3,Active,Free Cancellation,9538
+HTL200983,Royal Stay 983,Ahmedabad,Hotel,5,Temporarily Blocked,Free Cancellation,8549
+HTL200984,Riverfront Palace 984,Hyderabad,Serviced Apartment,3,Temporarily Blocked,Non Refundable,14568
+HTL200985,Urban Resort 985,Goa,Resort,4,Temporarily Blocked,Flexible 24H,16401
+HTL200986,Urban Resort 986,Varanasi,Hotel,3,Under Review,Free Cancellation,17270
+HTL200987,Lakeview Suites 987,Hyderabad,Hotel,3,Temporarily Blocked,Partial Refund,9934
+HTL200988,Regency Resort 988,Shimla,Hotel,4,Active,Free Cancellation,10083
+HTL200989,Crown Suites 989,Kochi,Resort,5,Active,Free Cancellation,2225
+HTL200990,Green Leaf Inn 990,Agra,Hotel,4,Temporarily Blocked,Free Cancellation,13397
+HTL200991,Metro Stay 991,Chennai,Serviced Apartment,3,Active,Partial Refund,4559
+HTL200992,Urban Suites 992,Chennai,Resort,3,Active,Free Cancellation,6457
+HTL200993,Pearl Hotel 993,Ahmedabad,Homestay,4,Active,Partial Refund,4151
+HTL200994,Riverfront Resort 994,Kolkata,Hotel,4,Active,Free Cancellation,8589
+HTL200995,Metro Palace 995,Udaipur,Hotel,2,Under Review,Free Cancellation,15866
+HTL200996,Heritage Stay 996,Kochi,Hotel,3,Temporarily Blocked,Free Cancellation,16152
+HTL200997,Crown Resort 997,Udaipur,Hotel,4,Active,Flexible 24H,15427
+HTL200998,Vista Suites 998,Mumbai,Hotel,3,Active,Non Refundable,16824
+HTL200999,Grand Resort 999,Delhi,Serviced Apartment,3,Temporarily Blocked,Non Refundable,2935

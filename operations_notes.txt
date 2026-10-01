@@ -1,0 +1,100 @@
+001. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+002. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+003. City Ops reports elevated refund callbacks in Bengaluru; validate hotel cancellation reason mapping before issuing bulk refunds.
+004. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+005. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+006. Crown Hotel 332 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+007. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+008. Palm Palace 667 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+009. Heritage Suites 194 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+010. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+011. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+012. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+013. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+014. City Ops reports elevated refund callbacks in Shimla; validate hotel cancellation reason mapping before issuing bulk refunds.
+015. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+016. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+017. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+018. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+019. City Ops reports elevated refund callbacks in Kochi; validate hotel cancellation reason mapping before issuing bulk refunds.
+020. City Ops reports elevated refund callbacks in Mumbai; validate hotel cancellation reason mapping before issuing bulk refunds.
+021. City Ops reports elevated refund callbacks in Shimla; validate hotel cancellation reason mapping before issuing bulk refunds.
+022. City Ops reports elevated refund callbacks in Kolkata; validate hotel cancellation reason mapping before issuing bulk refunds.
+023. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+024. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+025. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+026. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+027. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+028. Riverfront Stay 177 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+029. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+030. Vista Hotel 295 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+031. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+032. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+033. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+034. City Ops reports elevated refund callbacks in Shimla; validate hotel cancellation reason mapping before issuing bulk refunds.
+035. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+036. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+037. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+038. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+039. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+040. City Ops reports elevated refund callbacks in Goa; validate hotel cancellation reason mapping before issuing bulk refunds.
+041. Grand Hotel 965 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+042. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+043. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+044. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+045. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+046. Crown Inn 220 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+047. City Ops reports elevated refund callbacks in Pune; validate hotel cancellation reason mapping before issuing bulk refunds.
+048. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+049. City Ops reports elevated refund callbacks in Agra; validate hotel cancellation reason mapping before issuing bulk refunds.
+050. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+051. Vista Hotel 211 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+052. Silver Oak Suites 884 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+053. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+054. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+055. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+056. Metro Resort 712 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+057. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+058. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+059. Regency Suites 20 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+060. City Ops reports elevated refund callbacks in Shimla; validate hotel cancellation reason mapping before issuing bulk refunds.
+061. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+062. Green Leaf Inn 990 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+063. Riverfront Inn 212 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+064. City Ops reports elevated refund callbacks in Hyderabad; validate hotel cancellation reason mapping before issuing bulk refunds.
+065. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+066. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+067. Vista Stay 428 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+068. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+069. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+070. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+071. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+072. Metro Palace 481 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+073. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+074. City Ops reports elevated refund callbacks in Pune; validate hotel cancellation reason mapping before issuing bulk refunds.
+075. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+076. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+077. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+078. City Ops reports elevated refund callbacks in Bengaluru; validate hotel cancellation reason mapping before issuing bulk refunds.
+079. City Ops reports elevated refund callbacks in Jaipur; validate hotel cancellation reason mapping before issuing bulk refunds.
+080. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+081. Green Leaf Hotel 793 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+082. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+083. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+084. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+085. Metro Suites 276 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+086. Regency Stay 442 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+087. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+088. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+089. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
+090. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+091. Regency Resort 988 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+092. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+093. CX team says guests with check-in denied cases should be marked Critical when refund is still pending.
+094. Finance Ops observed mismatched total paid and refund amounts; flag negative or excessive refund values.
+095. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+096. Royal Resort 609 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+097. Engineering Manager says do not silently delete invalid dates; count and report them in validation output.
+098. City Ops reports elevated refund callbacks in Goa; validate hotel cancellation reason mapping before issuing bulk refunds.
+099. Heritage Hotel 253 has repeated room availability disputes; check if booking_status and ticket_status are aligned.
+100. Product Manager wants city-wise and hotel-wise reports visible in the notebook before export.
