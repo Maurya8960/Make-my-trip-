@@ -99,9 +99,9 @@ try:
         col_chart1, col_chart2 = st.columns([2, 1])
         
         with col_chart1:
-            # Monthly/Weekly aggregation for cleaner line chart
+            # Monthly/Weekly aggregation for cleaner line chart - FIXED 'M' to 'ME' here!
             if 'booking_date' in filtered_bookings.columns:
-                trend_data = filtered_bookings.set_index('booking_date').resample('M').size().reset_index(name='Bookings')
+                trend_data = filtered_bookings.set_index('booking_date').resample('ME').size().reset_index(name='Bookings')
                 fig_line = px.line(trend_data, x='booking_date', y='Bookings', 
                                    title="Monthly Booking Trends", markers=True, 
                                    line_shape='spline', color_discrete_sequence=['#00CC96'])
@@ -124,16 +124,12 @@ try:
         
         # NLP/JSON Data Processing
         if complaints and len(complaints) > 0:
-            # Extract categories from JSON (Assuming JSON is a list of dicts with a 'category' or 'issue_type' key)
-            # If your JSON structure is different, this key might need adjustment
             try:
-                # Let's try to find a common key like 'category', 'issue', 'type', or just count occurrences if it's a list of strings
                 categories = []
                 for c in complaints:
                     if isinstance(c, dict):
                         categories.append(c.get('category') or c.get('issue_type') or c.get('subject') or "Uncategorized")
                     elif isinstance(c, str):
-                        # simple heuristic if it's just strings
                         if "clean" in c.lower(): categories.append("Cleanliness")
                         elif "staff" in c.lower(): categories.append("Staff Behavior")
                         elif "ac" in c.lower() or "room" in c.lower(): categories.append("Room Amenities")
@@ -164,12 +160,12 @@ try:
             st.info("No complaint data available or JSON is empty.")
 
     with tab3:
-        st.subheader("Raw Datasets")
-        st.markdown("Explore the filtered data below.")
+        st.subheader("Raw Datasets (Search Enable)")
+        st.markdown("Use the **Search icon (🔍)** in the top right corner of the tables below to search for any data.")
         st.write("### Bookings")
-        st.dataframe(filtered_bookings.head(100), use_container_width=True)
+        st.dataframe(filtered_bookings, use_container_width=True)
         st.write("### Cancellations")
-        st.dataframe(filtered_cancellations.head(100), use_container_width=True)
+        st.dataframe(filtered_cancellations, use_container_width=True)
 
 except Exception as e:
     st.error(f"Critical Error: {e}")
